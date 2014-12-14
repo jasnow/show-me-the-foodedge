@@ -18,7 +18,7 @@ class CreateLocations < ActiveRecord::Migration
       t.string :objectid
       t.string :val_acres
       t.string :structure_year
-
+      t.string :source
 
       t.timestamps
     end

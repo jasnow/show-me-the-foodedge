@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20141105040212) do
+ActiveRecord::Schema.define(version: 20141027235356) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -34,11 +34,11 @@ ActiveRecord::Schema.define(version: 20141105040212) do
     t.string   "objectid"
     t.string   "val_acres"
     t.string   "structure_year"
+    t.string   "source"
     t.datetime "created_at"
     t.datetime "updated_at"
     t.boolean  "ebt"
     t.string   "county"
-    t.string   "source"
   end
 
 end
