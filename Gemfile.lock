@@ -45,7 +45,6 @@ GEM
     factory_girl_rails (4.5.0)
       factory_girl (~> 4.5.0)
       railties (>= 3.0.0)
-    ffi (1.9.6)
     geocoder (1.2.7)
     gmaps4rails (2.1.2)
     hike (1.2.3)
@@ -147,7 +146,6 @@ PLATFORMS
 DEPENDENCIES
   coffee-rails
   factory_girl_rails
-  ffi (= 1.9.6)
   geocoder
   gmaps4rails
   jbuilder
