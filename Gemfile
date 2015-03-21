@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.1.10.rc4'
+gem 'rails', '4.1.10'
 
 gem 'pg'
 gem 'sqlite3'
