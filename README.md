@@ -1,4 +1,4 @@
-# Show Me The Food
+# Show Me The Food (Rails 5 version fo show-me-the-food)
 
 RubyOnRails application, utilizing geocoder and gmaps4rails to map data.
 

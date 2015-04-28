@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.1.10'
+gem 'rails',       :git => 'git://github.com/rails/rails.git'       # Needed for Rails 5.0
+gem 'arel',        :git => 'git://github.com/rails/arel.git'        # Needed for Rails 5.0
 
 gem 'pg'
 gem 'sqlite3'
@@ -17,7 +18,7 @@ gem 'coffee-rails'
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
-gem 'turbolinks'
+gem 'turbolinks',  :git => 'git://github.com/rails/turbolinks.git'  # Needed for Rails 5.0
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder'
 # bundle exec rake doc:rails generates the API under doc/api.

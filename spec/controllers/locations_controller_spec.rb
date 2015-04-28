@@ -5,7 +5,7 @@ RSpec.describe LocationsController, :type => :controller do
     subject{ assigns(:locations) }
     it 'assigns @locations' do
       location = FactoryGirl.create(:location)
-      xhr :get, :index, {}
+      get :index, xhr: true
       expect(subject).to include(location)
     end
   end
