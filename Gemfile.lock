@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 5f844211bebc7a974dc3ff6d67901515369c1840
+  revision: 84601e42b8154ff6f2daadda89c32992bd314e8e
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -63,7 +63,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/turbolinks.git
-  revision: 69e2034992036609137725d7e3e11a1f8f76a61e
+  revision: 09e47f46f5127bf98337ec9a28dc16aec1d06ed1
   specs:
     turbolinks (3.0.0)
       coffee-rails
@@ -101,7 +101,7 @@ GEM
       railties (>= 4.2.0)
       thor (>= 0.14, < 2.0)
     json (1.8.2)
-    loofah (2.0.1)
+    loofah (2.0.2)
       nokogiri (>= 1.5.9)
     mail (2.6.3)
       mime-types (>= 1.16, < 3)
