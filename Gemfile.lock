@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 6d951bda36c60d3d377ef63b22a855fbd2735df3
+  revision: db0e649aba7135133154a35549219cffe968eaf6
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -63,7 +63,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/turbolinks.git
-  revision: 09e47f46f5127bf98337ec9a28dc16aec1d06ed1
+  revision: d2e5b4863a2425155d050b965778d8550d8958e1
   specs:
     turbolinks (3.0.0)
       coffee-rails
@@ -157,10 +157,10 @@ GEM
       json (~> 1.7, >= 1.7.7)
       rdoc (~> 4.0)
     slop (3.6.0)
-    spring (1.3.5)
+    spring (1.3.6)
     spring-commands-rspec (1.0.4)
       spring (>= 0.9.1)
-    sprockets (3.0.3)
+    sprockets (3.1.0)
       rack (~> 1.0)
     sprockets-rails (2.3.0)
       actionpack (>= 3.0)
