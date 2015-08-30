@@ -1,12 +1,18 @@
 source 'https://rubygems.org'
-# Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', git: 'git://github.com/rails/rails.git' # Needed for Rails 5.0
-gem 'arel',  git: 'git://github.com/rails/arel.git'  # Needed for Rails 5.0
+
+# Rails 5.0
+gem 'rails',      git: 'git://github.com/rails/rails.git'
+gem 'arel',       git: 'git://github.com/rails/arel.git'
+gem 'turbolinks', git: 'git://github.com/rails/turbolinks.git'
+gem 'sprockets',  git: 'git://github.com/rails/sprockets.git'
+gem 'sass-rails', git: 'git://github.com/rails/sass-rails.git'
+gem 'rack',       git: 'git://github.com/rack/rack.git'
+gem 'sprockets-rails', '3.0.0.beta2'
+gem 'rails-controller-testing'
 
 gem 'pg'
 gem 'sqlite3'
-# Use SCSS for stylesheets
-gem 'sass-rails'
+
 gem 'underscore-rails'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier'
@@ -18,10 +24,7 @@ gem 'coffee-rails'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
-# Turbolinks makes following links in your web application faster.
-#    Read more: https://github.com/rails/turbolinks
-# Needed for Rails 5.0
-gem 'turbolinks', git: 'git://github.com/rails/turbolinks.git'
+
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder'
 # bundle exec rake doc:rails generates the API under doc/api.
