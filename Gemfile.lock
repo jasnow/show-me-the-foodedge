@@ -7,13 +7,13 @@ GIT
 
 GIT
   remote: git://github.com/rails/arel.git
-  revision: d5432b4616ff43fbb14540d351eed351e21bb20e
+  revision: 64d897844c5b30657ab702293647f09dcb38a13e
   specs:
     arel (7.0.0.alpha)
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 4a34915d401f83e1227a5615bc6014cb8973de47
+  revision: aa3acf85cbb6bbb54c345f4cce6ab9d48d882022
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -62,7 +62,7 @@ GIT
       activesupport (= 5.0.0.alpha)
       bundler (>= 1.3.0, < 2.0)
       railties (= 5.0.0.alpha)
-      sprockets-rails
+      sprockets-rails (>= 2.0.0)
     railties (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
       activesupport (= 5.0.0.alpha)
@@ -89,7 +89,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/turbolinks.git
-  revision: 9d0e8f0a464142901b298eec11ad8d7a768a2c8b
+  revision: dc4f5f36f1c1965e6c5921f49d20fa718277f19e
   specs:
     turbolinks (3.0.0)
       coffee-rails
