@@ -13,7 +13,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 2cc6f6b7f178944d5c5f08b619193ee4e5a29ae4
+  revision: 269050072d53bc34d779c4f807c444aacb08a61a
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -72,17 +72,17 @@ GIT
 
 GIT
   remote: git://github.com/rails/sass-rails.git
-  revision: d113392af2ba9d6a4a5b37331f74f4eb28c8be4c
+  revision: a3b25261a3d31ed9ff5dd6e841b777790fc86c55
   specs:
     sass-rails (6.0.0)
       railties (>= 4.0.0, < 5.0)
-      sass (~> 3.3)
+      sass (~> 3.4)
       sprockets (>= 4.0)
       sprockets-rails (< 4.0)
 
 GIT
   remote: git://github.com/rails/sprockets.git
-  revision: 7b913165d54bef952b8f83509e731a90987321bb
+  revision: 9c23a359ae2b771a99fe057bac527906fa090b23
   specs:
     sprockets (4.0.0)
       rack (> 1, < 3)
@@ -115,7 +115,7 @@ GEM
     factory_girl_rails (4.5.0)
       factory_girl (~> 4.5.0)
       railties (>= 3.0.0)
-    geocoder (1.2.9)
+    geocoder (1.2.10)
     globalid (0.3.6)
       activesupport (>= 4.1.0)
     gmaps4rails (2.1.2)
