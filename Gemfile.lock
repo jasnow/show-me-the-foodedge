@@ -1,19 +1,19 @@
 GIT
   remote: git://github.com/rack/rack.git
-  revision: a46eae2345a00666ade983740ac27c79adc7bd70
+  revision: c28f271d0c91f45e13bfa8f07bed445ef91f41de
   specs:
     rack (2.0.0.alpha)
       json
 
 GIT
   remote: git://github.com/rails/arel.git
-  revision: 64d897844c5b30657ab702293647f09dcb38a13e
+  revision: 77ec13b46af2926bfcfc3073685711c874b0d272
   specs:
     arel (7.0.0.alpha)
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 269050072d53bc34d779c4f807c444aacb08a61a
+  revision: b3ab44f6cb03e0e7a59bb6f8562ae5fa21bfed44
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -82,7 +82,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/sprockets.git
-  revision: 9c23a359ae2b771a99fe057bac527906fa090b23
+  revision: 658255ea632e427b7222700f0ea515e499f723f1
   specs:
     sprockets (4.0.0)
       rack (> 1, < 3)
