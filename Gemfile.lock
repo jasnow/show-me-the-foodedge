@@ -13,7 +13,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 59ec70dcbeb2fb6d1d5ef63bd807ec0e915f7b3a
+  revision: f3ff72bc7728f1df3dc25d88f4c2c8afa998751c
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -179,7 +179,7 @@ GEM
       json (~> 1.7, >= 1.7.7)
       rdoc (~> 4.0)
     slop (3.6.0)
-    spring (1.3.6)
+    spring (1.4.0)
     spring-commands-rspec (1.0.4)
       spring (>= 0.9.1)
     sprockets-rails (3.0.0.beta2)
