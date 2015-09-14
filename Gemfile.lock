@@ -13,7 +13,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: f3ff72bc7728f1df3dc25d88f4c2c8afa998751c
+  revision: 89e61f0133f09b2bfa0f020039f6e92f3c21160e
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -89,7 +89,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/turbolinks.git
-  revision: dc4f5f36f1c1965e6c5921f49d20fa718277f19e
+  revision: 6d2ffc0e9eadb047ca5febbc08da8d92acab78c4
   specs:
     turbolinks (3.0.0)
       coffee-rails
@@ -133,7 +133,7 @@ GEM
     mail (2.6.3)
       mime-types (>= 1.16, < 3)
     method_source (0.8.2)
-    mime-types (2.6.1)
+    mime-types (2.6.2)
     mini_portile (0.6.2)
     minitest (5.8.0)
     multi_json (1.11.2)
