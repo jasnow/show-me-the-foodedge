@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rack/rack.git
-  revision: ac6af8e77747d0167a7fa7e28b7a4b1ababd5e03
+  revision: 63807f731e5b36993c08710d05d0185198df552a
   specs:
     rack (2.0.0.alpha)
       json
@@ -13,7 +13,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 1165e9c898a17fadf8f91986ba2f25fb47651d53
+  revision: f5fe01e8366ae393aca93635a8f04d4ed3f7cdd7
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
