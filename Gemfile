@@ -1,10 +1,10 @@
 source 'https://rubygems.org'
 
 # Rails 5.0
-gem 'rails',      git: 'git://github.com/rails/rails.git'
-gem 'arel',       git: 'git://github.com/rails/arel.git'
-gem 'rack',       git: 'git://github.com/rack/rack.git'
-gem 'turbolinks', git: 'git://github.com/rails/turbolinks.git'
+gem 'rails',      github: 'rails/rails'
+gem 'arel',       github: 'rails/arel'
+gem 'turbolinks', github: 'rails/turbolinks'
+gem 'rack',       github: 'rack/rack'
 gem 'rails-controller-testing'
 
 gem 'coffee-rails'
