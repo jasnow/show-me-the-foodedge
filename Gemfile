@@ -26,7 +26,7 @@ group :development do
 end
 
 group :development, :test do
-  gem 'rspec-rails'
+  gem 'rspec-rails' # GEM LOCKED DOWN TO "< 4.3"
   gem 'pry'
   gem 'factory_girl_rails'
 end
