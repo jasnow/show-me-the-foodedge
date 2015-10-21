@@ -13,7 +13,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: cbfe5bb3c40956a0481b7c3d10177b8c68e63aaa
+  revision: 173fc1f7beed616adc840e02fef4e7f93e877c69
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
