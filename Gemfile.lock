@@ -13,7 +13,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: e8b2c0535c203119e6733a982dc22734f3da1219
+  revision: 175992285b4ba1f9a69a8fba4f1cc90d267323c2
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -45,7 +45,7 @@ GIT
       activesupport (= 5.0.0.alpha)
       arel (= 7.0.0.alpha)
     activesupport (5.0.0.alpha)
-      concurrent-ruby (~> 1.0.0.pre3, < 2.0.0)
+      concurrent-ruby (~> 1.0.0.pre5, < 2.0.0)
       i18n (~> 0.7)
       json (~> 1.7, >= 1.7.7)
       method_source
@@ -88,7 +88,7 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.9.1.1)
-    concurrent-ruby (1.0.0.pre4)
+    concurrent-ruby (1.0.0.pre5)
     diff-lcs (1.2.5)
     erubis (2.7.0)
     execjs (2.6.0)
