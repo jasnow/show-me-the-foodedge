@@ -13,7 +13,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 2dd64a7bbb0cb7b65976cb0516d0f338b099a715
+  revision: 574f255629a45cd67babcfb9bb8e163e091a53b8
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -212,4 +212,4 @@ DEPENDENCIES
   underscore-rails
 
 BUNDLED WITH
-   1.11.0
+   1.10.6
