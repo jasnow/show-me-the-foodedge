@@ -13,8 +13,16 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 7fb47a8559db34e923ab4971768260757429c445
+  revision: 47fed8060ac5d03d2ad220fd406949e436d418ea
   specs:
+    actioncable (5.0.0.alpha)
+      actionpack (= 5.0.0.alpha)
+      celluloid (~> 0.17.2)
+      coffee-rails (~> 4.1.0)
+      em-hiredis (~> 0.3.0)
+      faye-websocket (~> 0.10.0)
+      redis (~> 3.0)
+      websocket-driver (~> 0.6.1)
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
       actionview (= 5.0.0.alpha)
@@ -52,6 +60,7 @@ GIT
       minitest (~> 5.1)
       tzinfo (~> 1.1)
     rails (5.0.0.alpha)
+      actioncable (= 5.0.0.alpha)
       actionmailer (= 5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
       actionview (= 5.0.0.alpha)
@@ -80,6 +89,23 @@ GEM
   remote: https://rubygems.org/
   specs:
     builder (3.2.2)
+    celluloid (0.17.2)
+      celluloid-essentials
+      celluloid-extras
+      celluloid-fsm
+      celluloid-pool
+      celluloid-supervision
+      timers (>= 4.1.1)
+    celluloid-essentials (0.20.5)
+      timers (>= 4.1.1)
+    celluloid-extras (0.20.5)
+      timers (>= 4.1.1)
+    celluloid-fsm (0.20.5)
+      timers (>= 4.1.1)
+    celluloid-pool (0.20.5)
+      timers (>= 4.1.1)
+    celluloid-supervision (0.20.5)
+      timers (>= 4.1.1)
     coderay (1.1.0)
     coffee-rails (4.1.0)
       coffee-script (>= 2.2.0)
@@ -90,17 +116,26 @@ GEM
     coffee-script-source (1.10.0)
     concurrent-ruby (1.0.0)
     diff-lcs (1.2.5)
+    em-hiredis (0.3.0)
+      eventmachine (~> 1.0)
+      hiredis (~> 0.5.0)
     erubis (2.7.0)
+    eventmachine (1.0.8)
     execjs (2.6.0)
     factory_girl (4.5.0)
       activesupport (>= 3.0.0)
     factory_girl_rails (4.5.0)
       factory_girl (~> 4.5.0)
       railties (>= 3.0.0)
+    faye-websocket (0.10.2)
+      eventmachine (>= 0.12.0)
+      websocket-driver (>= 0.5.1)
     geocoder (1.2.13)
     globalid (0.3.6)
       activesupport (>= 4.1.0)
     gmaps4rails (2.1.2)
+    hiredis (0.5.2)
+    hitimes (1.2.3)
     i18n (0.7.0)
     jquery-rails (4.0.5)
       rails-dom-testing (~> 1.0)
@@ -115,7 +150,7 @@ GEM
     mime-types (2.99)
     mini_portile2 (2.0.0)
     minitest (5.8.3)
-    nokogiri (1.6.7)
+    nokogiri (1.6.7.1)
       mini_portile2 (~> 2.0.0.rc2)
     pg (0.18.4)
     pry (0.10.3)
@@ -136,6 +171,7 @@ GEM
       loofah (~> 2.0)
     rake (10.4.2)
     rdoc (4.2.0)
+    redis (3.2.2)
     rspec-core (3.1.7)
       rspec-support (~> 3.1.0)
     rspec-expectations (3.1.2)
@@ -177,12 +213,17 @@ GEM
     thor (0.19.1)
     thread_safe (0.3.5)
     tilt (2.0.1)
+    timers (4.1.1)
+      hitimes
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
     uglifier (2.7.2)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
     underscore-rails (1.8.3)
+    websocket-driver (0.6.3)
+      websocket-extensions (>= 0.1.0)
+    websocket-extensions (0.1.2)
 
 PLATFORMS
   ruby
