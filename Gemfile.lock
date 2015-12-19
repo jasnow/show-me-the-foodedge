@@ -1,19 +1,6 @@
 GIT
-  remote: git://github.com/rack/rack.git
-  revision: f4562619c3c669404e39d9b09924bed5a6b71c14
-  specs:
-    rack (2.0.0.alpha)
-      json
-
-GIT
-  remote: git://github.com/rails/arel.git
-  revision: ea2d50706a5f8215ff2346fa562423700b2d2b6e
-  specs:
-    arel (7.0.0)
-
-GIT
   remote: git://github.com/rails/rails.git
-  revision: 6873db4699ac727dd27eedb0994ecdd976b40901
+  revision: 043660249bd8587194202cf4440fb1fd9db109a4
   specs:
     actioncable (5.0.0.beta1)
       actionpack (= 5.0.0.beta1)
@@ -88,6 +75,7 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
+    arel (7.0.0)
     builder (3.2.2)
     celluloid (0.17.2)
       celluloid-essentials
@@ -157,6 +145,8 @@ GEM
       coderay (~> 1.1.0)
       method_source (~> 0.8.1)
       slop (~> 3.4)
+    rack (2.0.0.alpha)
+      json
     rack-test (0.6.3)
       rack (>= 1.0)
     rails-controller-testing (0.0.3)
@@ -229,7 +219,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  arel!
   coffee-rails
   factory_girl_rails
   geocoder
@@ -237,7 +226,6 @@ DEPENDENCIES
   jquery-rails
   pg
   pry
-  rack!
   rails!
   rails-controller-testing
   rspec-rails
