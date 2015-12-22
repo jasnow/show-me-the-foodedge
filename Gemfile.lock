@@ -185,7 +185,7 @@ GEM
       json (~> 1.7, >= 1.7.7)
       rdoc (~> 4.0)
     slop (3.6.0)
-    spring (1.6.0)
+    spring (1.6.1)
     spring-commands-rspec (1.0.4)
       spring (>= 0.9.1)
     sprockets (3.5.2)
