@@ -24,7 +24,13 @@ group :development do
 end
 
 group :development, :test do
-  gem 'rspec-rails'
+  # Rails 5
+  gem 'rspec-rails'       , github: 'rspec/rspec-rails'
+  gem 'rspec-core'        , github: 'rspec/rspec-core'
+  gem 'rspec-expectations', github: 'rspec/rspec-expectations'
+  gem 'rspec-mocks'       , github: 'rspec/rspec-mocks'
+  gem 'rspec-support'     , github: 'rspec/rspec-support'
+
   gem 'pry'
   gem 'factory_girl_rails'
 end
