@@ -1,13 +1,13 @@
 GIT
   remote: git://github.com/rails/turbolinks.git
-  revision: 37e097d24763106a7a3f06c5ec0b6242cff18ea2
+  revision: dd31f4b2996f2300631f89339ada82c65b95f4c2
   specs:
     turbolinks (3.0.0)
       coffee-rails
 
 GIT
   remote: git://github.com/rspec/rspec-core.git
-  revision: a575b9b740a9af13c9760751aa3da09ffda30db5
+  revision: 427e7651746a67a38bb49a1cd89fe53e9ecdfc9d
   specs:
     rspec-core (3.5.0.pre)
       rspec-support (= 3.5.0.pre)
@@ -22,7 +22,7 @@ GIT
 
 GIT
   remote: git://github.com/rspec/rspec-mocks.git
-  revision: b94e242ebbc51081fc2245e37c574f5d6d02b7f8
+  revision: 29269d483f39ce78f3614a16b2e00a2a496a482c
   specs:
     rspec-mocks (3.5.0.pre)
       diff-lcs (>= 1.2.0, < 2.0)
@@ -30,7 +30,7 @@ GIT
 
 GIT
   remote: git://github.com/rspec/rspec-rails.git
-  revision: 7f2b695a2e70af1aa4f78346143e71e926bbccd7
+  revision: 8417d44bfb90643062d49ef165d3abeb4458ce00
   specs:
     rspec-rails (3.5.0.pre)
       actionpack (>= 3.0)
@@ -43,7 +43,7 @@ GIT
 
 GIT
   remote: git://github.com/rspec/rspec-support.git
-  revision: b0ff0f6e157288c33f8dc6d57f4ee157d43152fa
+  revision: 885e37c525b68ccca8351fe648a7826f34630318
   specs:
     rspec-support (3.5.0.pre)
 
