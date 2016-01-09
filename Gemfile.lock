@@ -30,7 +30,7 @@ GIT
 
 GIT
   remote: git://github.com/rspec/rspec-rails.git
-  revision: 9eee11a84c6740bd7551c3ad5d8057512d91ea92
+  revision: b2ac99c4202245598f3a15f14aa22ae3cd1b66b7
   specs:
     rspec-rails (3.5.0.pre)
       actionpack (>= 3.0)
@@ -210,7 +210,7 @@ GEM
       json (~> 1.7, >= 1.7.7)
       rdoc (~> 4.0)
     slop (3.6.0)
-    spring (1.6.1)
+    spring (1.6.2)
     spring-commands-rspec (1.0.4)
       spring (>= 0.9.1)
     sprockets (3.5.2)
