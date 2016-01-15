@@ -30,7 +30,7 @@ GIT
 
 GIT
   remote: git://github.com/rspec/rspec-rails.git
-  revision: b2ac99c4202245598f3a15f14aa22ae3cd1b66b7
+  revision: 6f06b28c1c97249a742b2206f86e030b46fef3b9
   specs:
     rspec-rails (3.5.0.pre)
       actionpack (>= 3.0)
