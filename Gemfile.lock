@@ -7,14 +7,14 @@ GIT
 
 GIT
   remote: git://github.com/rspec/rspec-core.git
-  revision: be0e1bc0a2b03e3f820195f54b0fe96c87fa587f
+  revision: d2ab0591b3c47283d3795db50a01ab3c76cc98d8
   specs:
     rspec-core (3.5.0.pre)
       rspec-support (= 3.5.0.pre)
 
 GIT
   remote: git://github.com/rspec/rspec-expectations.git
-  revision: d17110bdd0dca2e8daa3339c0fcfafcc5dc31a9c
+  revision: e7b08da715a777320586dec9f6c2ae5c44585ddd
   specs:
     rspec-expectations (3.5.0.pre)
       diff-lcs (>= 1.2.0, < 2.0)
@@ -22,7 +22,7 @@ GIT
 
 GIT
   remote: git://github.com/rspec/rspec-mocks.git
-  revision: 42ef957e0af1813c0933f29588121e78fadb8244
+  revision: 743d8b37bb8fbdce8433d88909d6977f820b64c9
   specs:
     rspec-mocks (3.5.0.pre)
       diff-lcs (>= 1.2.0, < 2.0)
@@ -96,7 +96,7 @@ GEM
       tzinfo (~> 1.1)
     arel (7.0.0)
     builder (3.2.2)
-    celluloid (0.17.2)
+    celluloid (0.17.3)
       celluloid-essentials
       celluloid-extras
       celluloid-fsm
