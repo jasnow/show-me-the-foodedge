@@ -30,7 +30,7 @@ GIT
 
 GIT
   remote: git://github.com/rspec/rspec-rails.git
-  revision: 44e5b8a927c35397bdbf36a6a99fbb9a567f25b8
+  revision: f37065600822e49df993e58e86b07d54e4af3fd8
   specs:
     rspec-rails (3.5.0.pre)
       actionpack (>= 3.0)
@@ -131,13 +131,13 @@ GEM
     execjs (2.6.0)
     factory_girl (4.5.0)
       activesupport (>= 3.0.0)
-    factory_girl_rails (4.5.0)
+    factory_girl_rails (4.6.0)
       factory_girl (~> 4.5.0)
       railties (>= 3.0.0)
     faye-websocket (0.10.2)
       eventmachine (>= 0.12.0)
       websocket-driver (>= 0.5.1)
-    geocoder (1.2.14)
+    geocoder (1.3.0)
     globalid (0.3.6)
       activesupport (>= 4.1.0)
     gmaps4rails (2.1.2)
