@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 # Rails 5.0
 gem 'rails', '5.0.0.beta3'
-gem 'turbolinks', '5.0.0.beta1'
+gem 'turbolinks', '5.0.0.beta2'
 gem 'rails-controller-testing'
 
 gem 'coffee-rails'
