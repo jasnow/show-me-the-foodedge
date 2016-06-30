@@ -1,21 +1,22 @@
 source 'https://rubygems.org'
 
-gem 'rails',      '5.0.0.rc2'
-gem 'turbolinks', '5.0.0.beta2'
+gem 'rails',      '5.0.0'
 gem 'rails-controller-testing'
 
+gem 'turbolinks'
 gem 'coffee-rails'
 gem 'geocoder'
 gem 'gmaps4rails'
 gem 'jquery-rails'
 gem 'pg'
 gem 'sass-rails'
-gem 'sdoc', group: :doc
 gem 'sprockets'
 gem 'sprockets-rails'
 gem 'sqlite3'
 gem 'uglifier'
 gem 'underscore-rails'
+
+gem 'sdoc', group: :doc
 
 group :development do
   gem 'spring'
