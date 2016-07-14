@@ -1,6 +1,9 @@
 source 'https://rubygems.org'
 
-gem 'rails',      '5.0.0'
+gem 'rails', github: 'rails/rails'
+
+ruby '2.4.0'
+
 gem 'rails-controller-testing'
 
 gem 'turbolinks'
