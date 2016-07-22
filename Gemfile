@@ -1,18 +1,17 @@
 source 'https://rubygems.org'
 
-gem 'rails', github: 'rails/rails'
+gem 'rails',      github: 'rails/rails'
+gem 'sass-rails', github: 'rails/sass-rails'
 
 ruby '2.4.0'
 
 gem 'rails-controller-testing'
-
 gem 'turbolinks'
 gem 'coffee-rails'
 gem 'geocoder'
 gem 'gmaps4rails'
 gem 'jquery-rails'
 gem 'pg'
-gem 'sass-rails', github: 'rails/sass-rails' # LOCKED DOWN
 gem 'sprockets'
 gem 'sprockets-rails'
 gem 'sqlite3'
