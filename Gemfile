@@ -12,7 +12,7 @@ gem 'geocoder'
 gem 'gmaps4rails'
 gem 'jquery-rails'
 gem 'pg'
-gem 'sass-rails'
+gem 'sass-rails', github: 'rails/sass-rails' # LOCKED DOWN
 gem 'sprockets'
 gem 'sprockets-rails'
 gem 'sqlite3'
