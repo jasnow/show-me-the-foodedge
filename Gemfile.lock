@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 029cbb35352ed79805da1b3a089e724b05bd2a80
+  revision: 56fe966e6ab1eaefd15588eadc343a8ec44390a7
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -143,7 +143,7 @@ GEM
     rspec-mocks (3.5.0)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.5.0)
-    rspec-rails (3.5.1)
+    rspec-rails (3.5.2)
       actionpack (>= 3.0)
       activesupport (>= 3.0)
       railties (>= 3.0)
@@ -160,7 +160,7 @@ GEM
     spring (1.7.2)
     spring-commands-rspec (1.0.4)
       spring (>= 0.9.1)
-    sprockets (4.0.0.beta2)
+    sprockets (4.0.0.beta3)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
     sprockets-rails (3.1.1)
