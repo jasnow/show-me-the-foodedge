@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/rails/rails.git
+  remote: https://github.com/rails/rails
   revision: cf5f55cd30aef0f90300c7c8f333060fe258cd8a
   specs:
     actioncable (5.1.0.alpha)
@@ -59,7 +59,7 @@ GIT
       thor (>= 0.18.1, < 2.0)
 
 GIT
-  remote: git://github.com/rails/sass-rails.git
+  remote: https://github.com/rails/sass-rails
   revision: dfbcc6a53653d8908007e26324a0f299f026ec4f
   specs:
     sass-rails (6.0.0.beta1)

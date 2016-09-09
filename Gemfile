@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'rails',      github: 'rails/rails'
-gem 'sass-rails', github: 'rails/sass-rails'
+gem 'rails',      git: 'https://github.com/rails/rails'
+gem 'sass-rails', git: 'https://github.com/rails/sass-rails'
 
 ruby '2.4.0'
 
