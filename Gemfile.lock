@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 268a5bb010ef91880d9b03b60e5e86ae5521e73c
+  revision: 58cabed38efddf54b67fd705fb98f5682fb1d5aa
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -135,7 +135,7 @@ GEM
     rake (11.3.0)
     rdoc (4.2.2)
       json (~> 1.4)
-    rspec-core (3.5.3)
+    rspec-core (3.5.4)
       rspec-support (~> 3.5.0)
     rspec-expectations (3.5.0)
       diff-lcs (>= 1.2.0, < 2.0)
