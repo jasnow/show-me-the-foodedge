@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 58cabed38efddf54b67fd705fb98f5682fb1d5aa
+  revision: 53ede1aff2025d4391d0e05ba471fdaf3110a99c
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -157,7 +157,8 @@ GEM
       json (~> 1.7, >= 1.7.7)
       rdoc (~> 4.0)
     slop (3.6.0)
-    spring (1.7.2)
+    spring (2.0.0)
+      activesupport (>= 4.2)
     spring-commands-rspec (1.0.4)
       spring (>= 0.9.1)
     sprockets (4.0.0.beta3)
@@ -211,4 +212,4 @@ RUBY VERSION
    ruby 2.4.0p-1
 
 BUNDLED WITH
-   1.13.1
+   1.13.2
