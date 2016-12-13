@@ -20,7 +20,7 @@ gem 'sqlite3'
 gem 'uglifier'
 gem 'underscore-rails'
 
-gem 'sdoc', group: :doc
+gem 'sdoc', '1.0.0.beta2', group: :doc # LOCKED DOWN
 
 group :development do
   gem 'spring'
