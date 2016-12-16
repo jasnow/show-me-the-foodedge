@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: a47efcfcaee01c1143de459d3864f2c35fb566d4
+  revision: e55fac51d93fc832281a5c34f99a72304822bdd3
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -85,10 +85,10 @@ GEM
     diff-lcs (1.2.5)
     erubis (2.7.0)
     execjs (2.7.0)
-    factory_girl (4.7.0)
+    factory_girl (4.8.0)
       activesupport (>= 3.0.0)
-    factory_girl_rails (4.7.0)
-      factory_girl (~> 4.7.0)
+    factory_girl_rails (4.8.0)
+      factory_girl (~> 4.8.0)
       railties (>= 3.0.0)
     geocoder (1.4.1)
     globalid (0.3.7)
