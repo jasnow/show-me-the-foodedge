@@ -148,7 +148,7 @@ GEM
       rspec-mocks (~> 3.5.0)
       rspec-support (~> 3.5.0)
     rspec-support (3.5.0)
-    sass (3.4.22)
+    sass (3.4.23)
     sdoc (1.0.0.beta2)
       rdoc (= 5.0.0.beta2)
     slop (3.6.0)
