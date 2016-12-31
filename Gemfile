@@ -4,6 +4,7 @@ gem 'i18n', '0.8.0.beta1' # TEMP
 
 gem 'rails',      git: 'https://github.com/rails/rails'
 gem 'sass-rails', git: 'https://github.com/rails/sass-rails'
+gem 'arel', git: 'https://github.com/rails/arel'
 
 ruby '2.4.0'
 
