@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: 058eb959bff8e43953f435bdf25d35435440d09e
+  revision: 151895a9d6c1764e57d1d844bd1e6bf37d588b56
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -115,7 +115,7 @@ GEM
     mini_portile2 (2.1.0)
     minitest (5.10.1)
     nio4r (2.0.0)
-    nokogiri (1.7.0)
+    nokogiri (1.7.0.1)
       mini_portile2 (~> 2.1.0)
     pg (0.19.0)
     pry (0.10.4)
