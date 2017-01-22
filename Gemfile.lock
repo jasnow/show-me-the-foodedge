@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: fb5bd3c6f2f29c3ed370e82db0d3de52a97a0648
+  revision: 2d61745af4c6f134d1ff4a07d3a702353cd06005
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -179,7 +179,7 @@ GEM
     uglifier (3.0.4)
       execjs (>= 0.3.0, < 3)
     underscore-rails (1.8.3)
-    websocket-driver (0.6.4)
+    websocket-driver (0.6.5)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.2)
 
@@ -214,4 +214,4 @@ RUBY VERSION
    ruby 2.4.0p0
 
 BUNDLED WITH
-   1.14.0
+   1.14.1
