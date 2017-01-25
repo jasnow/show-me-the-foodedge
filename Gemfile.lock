@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: 6363fa1a6f9ef43b3e89e8cf5873617e851414d4
+  revision: a363099ce19291d786a31342b6efc528b0cf296d
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -28,7 +28,7 @@ GIT
     actionview (5.1.0.alpha)
       activesupport (= 5.1.0.alpha)
       builder (~> 3.1)
-      erubis (~> 2.7.0)
+      erubi (~> 1.4)
       rails-dom-testing (~> 2.0)
       rails-html-sanitizer (~> 1.0, >= 1.0.2)
     activejob (5.1.0.alpha)
@@ -88,7 +88,7 @@ GEM
     coffee-script-source (1.12.2)
     concurrent-ruby (1.0.4)
     diff-lcs (1.3)
-    erubis (2.7.0)
+    erubi (1.4.0)
     execjs (2.7.0)
     factory_girl (4.8.0)
       activesupport (>= 3.0.0)
