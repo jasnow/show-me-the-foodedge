@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: f543b97fcc52168119d4e016eb50afbda702e601
+  revision: d506f3def1c56e40be0262a5d34560655faa9180
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -30,7 +30,7 @@ GIT
       builder (~> 3.1)
       erubi (~> 1.4)
       rails-dom-testing (~> 2.0)
-      rails-html-sanitizer (~> 1.0, >= 1.0.2)
+      rails-html-sanitizer (~> 1.0, >= 1.0.3)
     activejob (5.1.0.alpha)
       activesupport (= 5.1.0.alpha)
       globalid (>= 0.3.6)
