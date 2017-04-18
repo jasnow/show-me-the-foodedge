@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: 8776a7139757d0b264785c774d4e7f37d4bc1ac7
+  revision: a2ab5ffae97e3523e2d6a8f22222af4df001212f
   specs:
     actioncable (5.2.0.alpha)
       actionpack (= 5.2.0.alpha)
