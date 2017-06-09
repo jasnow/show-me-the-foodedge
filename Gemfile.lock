@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 73715f29ab4c56ebcd74403903ebd691677ef318
+  revision: 3260c6e162727f5a5aaa0efe377a2c4561a8be33
   specs:
     actioncable (5.2.0.alpha)
       actionpack (= 5.2.0.alpha)
@@ -91,7 +91,7 @@ GEM
       thor (>= 0.14, < 2.0)
     loofah (2.0.3)
       nokogiri (>= 1.5.9)
-    mail (2.6.5)
+    mail (2.6.6)
       mime-types (>= 1.16, < 4)
     method_source (0.8.2)
     mime-types (3.1)
