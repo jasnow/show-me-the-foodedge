@@ -1,6 +1,12 @@
 GIT
+  remote: https://github.com/rails/arel
+  revision: f4227bf20a16a1d688afc24cf0038e2f98905dd4
+  specs:
+    arel (9.0.0.alpha)
+
+GIT
   remote: https://github.com/rails/rails
-  revision: 0449d8b6bc02f4c0a416a7c40550e3b8b988d113
+  revision: 6f9b01c056cd2f3a4761baf78df207e1154f1b06
   specs:
     actioncable (5.2.0.alpha)
       actionpack (= 5.2.0.alpha)
@@ -16,7 +22,7 @@ GIT
       actionview (= 5.2.0.alpha)
       activesupport (= 5.2.0.alpha)
       rack (~> 2.0)
-      rack-test (~> 0.6.3)
+      rack-test (>= 0.6.3)
       rails-dom-testing (~> 2.0)
       rails-html-sanitizer (~> 1.0, >= 1.0.2)
     actionview (5.2.0.alpha)
@@ -33,7 +39,7 @@ GIT
     activerecord (5.2.0.alpha)
       activemodel (= 5.2.0.alpha)
       activesupport (= 5.2.0.alpha)
-      arel (~> 8.0)
+      arel (= 9.0.0.alpha)
     activesupport (5.2.0.alpha)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (~> 0.7)
@@ -61,7 +67,6 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    arel (8.0.0)
     builder (3.2.3)
     coderay (1.1.1)
     coffee-rails (4.2.2)
@@ -109,8 +114,8 @@ GEM
       method_source (~> 0.8.1)
       slop (~> 3.4)
     rack (2.0.3)
-    rack-test (0.6.3)
-      rack (>= 1.0)
+    rack-test (0.7.0)
+      rack (>= 1.0, < 3)
     rails-controller-testing (1.0.2)
       actionpack (~> 5.x, >= 5.0.1)
       actionview (~> 5.x, >= 5.0.1)
@@ -187,6 +192,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  arel!
   coffee-rails
   factory_girl_rails
   geocoder
