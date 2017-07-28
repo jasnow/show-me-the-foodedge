@@ -1,12 +1,12 @@
 GIT
   remote: https://github.com/rails/arel
-  revision: f4227bf20a16a1d688afc24cf0038e2f98905dd4
+  revision: b9ca36f09d5e947a08e9b298a4a47634f6f08c9e
   specs:
     arel (9.0.0.alpha)
 
 GIT
   remote: https://github.com/rails/rails
-  revision: 4caf751fffcd0d25b563bd5fd13fc075560aa8d5
+  revision: 490c5a742f2616212cdf79e0218da1e710c9aaf6
   specs:
     actioncable (5.2.0.alpha)
       actionpack (= 5.2.0.alpha)
