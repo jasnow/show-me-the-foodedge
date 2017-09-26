@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: ab08f33f312c20638b9a7c38ee6318727c7f107d
+  revision: 1bb106c0b7b918606a7e94a6abb6ade364cc4270
   specs:
     actioncable (5.2.0.alpha)
       actionpack (= 5.2.0.alpha)
@@ -105,7 +105,7 @@ GEM
       nokogiri (>= 1.5.9)
     mail (2.6.6)
       mime-types (>= 1.16, < 4)
-    method_source (0.8.2)
+    method_source (0.9.0)
     mime-types (3.1)
       mime-types-data (~> 3.2015)
     mime-types-data (3.2016.0521)
@@ -115,9 +115,9 @@ GEM
     nokogiri (1.8.1)
       mini_portile2 (~> 2.3.0)
     pg (0.21.0)
-    pry (0.11.0)
+    pry (0.11.1)
       coderay (~> 1.1.0)
-      method_source (~> 0.8.1)
+      method_source (~> 0.9.0)
     rack (2.0.3)
     rack-test (0.7.0)
       rack (>= 1.0, < 3)
