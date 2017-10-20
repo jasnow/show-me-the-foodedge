@@ -1,4 +1,4 @@
-FactoryGirl.define do
+FactoryBot.define do
   factory :location do
     address "1080 Euclid Ave"
     land_use_description "Convenience Store"
