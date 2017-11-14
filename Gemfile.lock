@@ -1,12 +1,6 @@
 GIT
-  remote: https://github.com/rails/arel
-  revision: b0ad8046091ce45a20fc7a5cb68b4599f876bbbb
-  specs:
-    arel (9.0.0.alpha)
-
-GIT
   remote: https://github.com/rails/rails
-  revision: 499a4164ce9816c4913bf3db14787ea99ef2c266
+  revision: 79c3d5a67d095379f72746b7b9f485861cdf9d07
   specs:
     actioncable (5.2.0.alpha)
       actionpack (= 5.2.0.alpha)
@@ -39,7 +33,7 @@ GIT
     activerecord (5.2.0.alpha)
       activemodel (= 5.2.0.alpha)
       activesupport (= 5.2.0.alpha)
-      arel (= 9.0.0.alpha)
+      arel (>= 9.0)
     activestorage (5.2.0.alpha)
       actionpack (= 5.2.0.alpha)
       activerecord (= 5.2.0.alpha)
@@ -71,6 +65,7 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
+    arel (9.0.0)
     builder (3.2.3)
     coderay (1.1.2)
     coffee-rails (4.2.2)
@@ -156,7 +151,7 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
-    sass-rails (5.0.6)
+    sass-rails (5.0.7)
       railties (>= 4.0.0, < 6)
       sass (~> 3.1)
       sprockets (>= 2.8, < 4.0)
@@ -195,7 +190,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  arel!
+  arel
   coffee-rails
   factory_bot_rails
   geocoder
