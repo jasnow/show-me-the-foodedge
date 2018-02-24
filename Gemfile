@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 gem 'rails', git: 'https://github.com/rails/rails'
 gem 'arel'
 
-ruby '2.5.0'
+ruby '2.6.0'
 
 gem 'sass-rails'
 gem 'rails-controller-testing'
