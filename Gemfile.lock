@@ -91,7 +91,7 @@ GEM
     globalid (0.4.1)
       activesupport (>= 4.2.0)
     gmaps4rails (2.1.2)
-    i18n (1.0.0)
+    i18n (1.0.1)
       concurrent-ruby (~> 1.0)
     jquery-rails (4.3.1)
       rails-dom-testing (>= 1, < 3)
