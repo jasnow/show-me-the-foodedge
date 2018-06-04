@@ -86,7 +86,7 @@ GEM
     factory_bot_rails (4.10.0)
       factory_bot (~> 4.10.0)
       railties (>= 3.0.0)
-    ffi (1.9.24)
+    ffi (1.9.25)
     geocoder (1.4.9)
     globalid (0.4.1)
       activesupport (>= 4.2.0)
