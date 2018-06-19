@@ -13,7 +13,7 @@ gem 'geocoder'
 gem 'gmaps4rails'
 gem 'jquery-rails'
 gem 'pg'
-gem 'sprockets', '4.0.0.beta7' # LOCKED DOWN
+gem 'sprockets', '4.0.0.beta8' # LOCKED DOWN
 gem 'sprockets-rails'
 gem 'sqlite3'
 gem 'uglifier'
