@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 02b4ba64615f7fb69975ff57d89ee7fa7c8bb45a
+  revision: 9b56cbd98dc422976cd59ec9644d670768efdfc2
   specs:
     actioncable (6.0.0.alpha)
       actionpack (= 6.0.0.alpha)
@@ -162,7 +162,7 @@ GEM
       rainbow (>= 2.2.2, < 4.0)
       ruby-progressbar (~> 1.7)
       unicode-display_width (~> 1.0, >= 1.0.1)
-    rubocop-rspec (1.29.0)
+    rubocop-rspec (1.29.1)
       rubocop (>= 0.58.0)
     ruby-progressbar (1.10.0)
     sass (3.5.7)
