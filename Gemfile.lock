@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: a429b29425027006f2bbd4d267928dde1dc2c31a
+  revision: d76d8f71c500f7076e1dc5801a222c8bd18466be
   specs:
     actioncable (6.0.0.alpha)
       actionpack (= 6.0.0.alpha)
@@ -123,7 +123,7 @@ GEM
     rack (2.0.6)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
-    rails-controller-testing (1.0.3)
+    rails-controller-testing (1.0.4)
       actionpack (>= 5.0.1.x)
       actionview (>= 5.0.1.x)
       activesupport (>= 5.0.1.x)
