@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: d76d8f71c500f7076e1dc5801a222c8bd18466be
+  revision: d5699198a45a91250e1adb3ed899b0b46b4ac879
   specs:
     actioncable (6.0.0.alpha)
       actionpack (= 6.0.0.alpha)
@@ -60,7 +60,7 @@ GIT
       activesupport (= 6.0.0.alpha)
       method_source
       rake (>= 0.8.7)
-      thor (>= 0.19.0, < 2.0)
+      thor (>= 0.20.3, < 2.0)
 
 GEM
   remote: https://rubygems.org/
@@ -183,7 +183,7 @@ GEM
       activesupport (>= 4.2)
     spring-commands-rspec (1.0.4)
       spring (>= 0.9.1)
-    sprockets (4.0.0.beta8)
+    sprockets (3.7.2)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
     sprockets-rails (3.2.1)
@@ -226,7 +226,6 @@ DEPENDENCIES
   sdoc
   spring
   spring-commands-rspec
-  sprockets (= 4.0.0.beta8)
   sprockets-rails
   sqlite3
   turbolinks
