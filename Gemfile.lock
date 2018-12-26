@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 11a8ba12723c919397c8ccc0b4cf2e9f50da99ed
+  revision: 4198323b9d234b97546ea2c7bc075ada3235043b
   specs:
     actioncable (6.0.0.alpha)
       actionpack (= 6.0.0.alpha)
@@ -145,7 +145,7 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
-    rdoc (6.1.0)
+    rdoc (6.1.1)
     rspec-core (3.8.0)
       rspec-support (~> 3.8.0)
     rspec-expectations (3.8.2)
