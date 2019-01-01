@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: c329d323fc2cc9ba1c486932556afd8fbd9333cc
+  revision: 5bb8f3ae67400b2e5ff3f21802b81a4dc11a7582
   specs:
     actioncable (6.0.0.alpha)
       actionpack (= 6.0.0.alpha)
@@ -163,7 +163,7 @@ GEM
       rspec-mocks (~> 3.8.0)
       rspec-support (~> 3.8.0)
     rspec-support (3.8.0)
-    rubocop (0.61.1)
+    rubocop (0.62.0)
       jaro_winkler (~> 1.5.1)
       parallel (~> 1.10)
       parser (>= 2.5, != 2.5.1.1)
@@ -244,4 +244,4 @@ RUBY VERSION
    ruby 2.6.0p0
 
 BUNDLED WITH
-   1.17.2
+   1.17.3
