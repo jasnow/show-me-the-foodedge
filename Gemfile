@@ -13,7 +13,7 @@ gem 'gmaps4rails'
 gem 'jquery-rails'
 gem 'pg'
 gem 'sprockets-rails'
-gem 'sqlite3'
+gem 'sqlite3', '1.3.13' # 3/22/2019: LOCKED DOWN
 gem 'uglifier'
 gem 'underscore-rails'
 

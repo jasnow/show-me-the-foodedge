@@ -242,7 +242,7 @@ DEPENDENCIES
   spring
   spring-commands-rspec
   sprockets-rails
-  sqlite3
+  sqlite3 (= 1.3.13)
   turbolinks
   uglifier
   underscore-rails
