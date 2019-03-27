@@ -1,4 +1,12 @@
 GIT
+  remote: https://github.com/rails/coffee-rails
+  revision: 5df5816588d0c3b903ca6b7f35ebe0d5645baf71
+  specs:
+    coffee-rails (4.2.2)
+      coffee-script (>= 2.2.0)
+      railties (>= 5.2.0)
+
+GIT
   remote: https://github.com/rails/rails
   revision: 3c2f3010785d8061415dbb3bac04be312123b931
   specs:
@@ -127,9 +135,6 @@ GEM
     ast (2.4.0)
     builder (3.2.3)
     coderay (1.1.2)
-    coffee-rails (4.2.2)
-      coffee-script (>= 2.2.0)
-      railties (>= 4.0.0)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -254,7 +259,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  coffee-rails
+  coffee-rails!
   factory_bot_rails
   geocoder
   gmaps4rails
