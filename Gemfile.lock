@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: d3a6277fd60b73ecdf1ad52db97cd9808c2ab2a8
+  revision: 015bfd1e705084b7dd5d4f2e38708a40b562dea3
   specs:
     actioncable (6.0.0.beta3)
       actionpack (= 6.0.0.beta3)
@@ -89,14 +89,14 @@ GIT
 
 GIT
   remote: https://github.com/rspec/rspec-core
-  revision: 0b4c98d1c1915b636f635c5a88e6ca59c8cdf049
+  revision: 4a29a4b13d66fa96fbdff439a5c21ca9816eb1a3
   specs:
     rspec-core (3.9.0.pre)
       rspec-support (= 3.9.0.pre)
 
 GIT
   remote: https://github.com/rspec/rspec-expectations
-  revision: 03af89d886a6ee27b862082913da0db6226956c5
+  revision: 79f66d07b9bf89b7a74089e33c489b36934f087e
   specs:
     rspec-expectations (3.9.0.pre)
       diff-lcs (>= 1.2.0, < 2.0)
@@ -104,7 +104,7 @@ GIT
 
 GIT
   remote: https://github.com/rspec/rspec-mocks
-  revision: 4f6f4131fd24d1a89ba389216e213dd4c95f4646
+  revision: a6e52c7b6dc12847ad8a362a6dc87c501c557048
   specs:
     rspec-mocks (3.9.0.pre)
       diff-lcs (>= 1.2.0, < 2.0)
@@ -126,7 +126,7 @@ GIT
 
 GIT
   remote: https://github.com/rspec/rspec-support
-  revision: 3a6ec66d32683e99c449a7b2f7f73e2edd7b6036
+  revision: b23895e34f8cc1914d311ec3302f9092afbd2f93
   specs:
     rspec-support (3.9.0.pre)
 
