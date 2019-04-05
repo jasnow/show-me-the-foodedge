@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: 50fba828d533ff75671ca8b83337dd99aa613ff7
+  revision: a8328f61b6b958140738d5c31438132b20089c93
   specs:
     actioncable (6.0.0.beta3)
       actionpack (= 6.0.0.beta3)
@@ -203,7 +203,7 @@ GEM
     rb-inotify (0.10.0)
       ffi (~> 1.0)
     rdoc (6.1.1)
-    rubocop (0.67.1)
+    rubocop (0.67.2)
       jaro_winkler (~> 1.5.1)
       parallel (~> 1.10)
       parser (>= 2.5, != 2.5.1.1)
