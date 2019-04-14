@@ -10,4 +10,3 @@ notifications:
     - jasnow@hotmail.com
     on_success: change
     on_failure: always
-sudo: false
