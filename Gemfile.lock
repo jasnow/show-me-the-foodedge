@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: ef21edbc45275f3be434732d14a284980a1a291b
+  revision: 98a75b46468c45d4477949ed267bb8823297d815
   specs:
     actioncable (6.0.0.beta3)
       actionpack (= 6.0.0.beta3)
@@ -286,7 +286,7 @@ DEPENDENCIES
   underscore-rails
 
 RUBY VERSION
-   ruby 2.6.2p47
+   ruby 2.6.3p62
 
 BUNDLED WITH
    1.17.2
