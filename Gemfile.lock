@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: 607d77ab073581172a66b26e2807790cd723719e
+  revision: 96cf7e0e676c54cb8177de146efa27ed49c4b8c6
   specs:
     actioncable (6.0.0.beta3)
       actionpack (= 6.0.0.beta3)
@@ -112,7 +112,7 @@ GIT
 
 GIT
   remote: https://github.com/rspec/rspec-rails
-  revision: 0de53d9e623d88a51b1d4cc98fe0d571de5b2f77
+  revision: a8078b8729a9062161118f440f7d49da9b2de134
   branch: 4-0-dev
   specs:
     rspec-rails (4.0.0.pre)
