@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: faf2677c7a6f6c8c947e04505d075da9f761b04d
+  revision: ada56f859113a5ab055c49b79a514cdae281d56b
   specs:
     actioncable (6.0.0.beta3)
       actionpack (= 6.0.0.beta3)
@@ -96,7 +96,7 @@ GIT
 
 GIT
   remote: https://github.com/rspec/rspec-expectations
-  revision: 49fcbeebd6ea3e74ab542087b9d767dbc4691251
+  revision: 7a5c9f7fdaeec189b9856e4cedbad70ce86cba69
   specs:
     rspec-expectations (3.9.0.pre)
       diff-lcs (>= 1.2.0, < 2.0)
@@ -254,7 +254,7 @@ GEM
     websocket-driver (0.7.0)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.3)
-    zeitwerk (2.1.2)
+    zeitwerk (2.1.3)
 
 PLATFORMS
   ruby
