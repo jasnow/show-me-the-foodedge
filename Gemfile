@@ -28,4 +28,5 @@ group :development, :test do
   gem 'pry'
   gem 'factory_bot_rails'
   gem 'rubocop-rspec'
+  gem 'rubocop-rails'
 end
