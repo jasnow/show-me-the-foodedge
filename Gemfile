@@ -15,6 +15,7 @@ gem 'sprockets-rails'
 gem 'sqlite3'
 gem 'uglifier'
 gem 'underscore-rails'
+gem 'coffee-script'
 
 gem 'sdoc', group: :doc
 
