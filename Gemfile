@@ -4,7 +4,7 @@ gem 'rails', git: 'https://github.com/rails/rails'
 
 ruby '2.7.0'
 
-gem 'sass-rails'
+gem 'sassc-rails'
 gem 'rails-controller-testing'
 gem 'turbolinks'
 gem 'geocoder'
