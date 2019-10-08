@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: d466033ad813d33451d3f232ae2124393734451e
+  revision: e684f5b090fa158ee2b194b4426c69df746642d3
   specs:
     actioncable (6.1.0.alpha)
       actionpack (= 6.1.0.alpha)
@@ -151,14 +151,14 @@ GEM
     rainbow (3.0.0)
     rake (13.0.0)
     rdoc (6.2.0)
-    rspec-core (3.8.2)
-      rspec-support (~> 3.8.0)
-    rspec-expectations (3.8.6)
+    rspec-core (3.9.0)
+      rspec-support (~> 3.9.0)
+    rspec-expectations (3.9.0)
       diff-lcs (>= 1.2.0, < 2.0)
-      rspec-support (~> 3.8.0)
-    rspec-mocks (3.8.2)
+      rspec-support (~> 3.9.0)
+    rspec-mocks (3.9.0)
       diff-lcs (>= 1.2.0, < 2.0)
-      rspec-support (~> 3.8.0)
+      rspec-support (~> 3.9.0)
     rspec-rails (4.0.0.beta2)
       actionpack (>= 4.2)
       activesupport (>= 4.2)
@@ -167,7 +167,7 @@ GEM
       rspec-expectations (~> 3.8)
       rspec-mocks (~> 3.8)
       rspec-support (~> 3.8)
-    rspec-support (3.8.3)
+    rspec-support (3.9.0)
     rubocop (0.75.0)
       jaro_winkler (~> 1.5.1)
       parallel (~> 1.10)
