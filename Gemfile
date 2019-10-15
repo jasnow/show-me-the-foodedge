@@ -30,4 +30,5 @@ group :development, :test do
   gem 'factory_bot_rails'
   gem 'rubocop-rspec'
   gem 'rubocop-rails'
+  gem 'overcommit'
 end
