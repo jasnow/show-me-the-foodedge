@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: a0569ff8c349f4f7673d76ca83efe6147b2be263
+  revision: c77a949299fcddd0f6f35d9bc21888b862ff665c
   specs:
     actioncable (6.1.0.alpha)
       actionpack (= 6.1.0.alpha)
@@ -252,7 +252,7 @@ DEPENDENCIES
   underscore-rails
 
 RUBY VERSION
-   ruby 2.7.0p-1
+   ruby 2.7.0p0
 
 BUNDLED WITH
    2.1.2
