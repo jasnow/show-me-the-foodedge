@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: f41730c95ac828ff228291df188b04a3ca7c3787
+  revision: f085e5471cbda80edf7fb5ea4dac77b449e0dd4f
   specs:
     actioncable (6.1.0.alpha)
       actionpack (= 6.1.0.alpha)
