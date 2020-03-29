@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: f085e5471cbda80edf7fb5ea4dac77b449e0dd4f
+  revision: ddaa24ac7094f713b4aebc90fe768816e543b3bf
   specs:
     actioncable (6.1.0.alpha)
       actionpack (= 6.1.0.alpha)
@@ -58,7 +58,7 @@ GIT
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 1.6, < 2)
       minitest (~> 5.1)
-      tzinfo (~> 1.1)
+      tzinfo (~> 2.0)
       zeitwerk (~> 2.2, >= 2.2.2)
     rails (6.1.0.alpha)
       actioncable (= 6.1.0.alpha)
@@ -211,13 +211,12 @@ GEM
       sprockets (>= 3.0.0)
     sqlite3 (1.4.2)
     thor (1.0.1)
-    thread_safe (0.3.6)
     tilt (2.0.10)
     turbolinks (5.2.1)
       turbolinks-source (~> 5.2)
     turbolinks-source (5.2.0)
-    tzinfo (1.2.6)
-      thread_safe (~> 0.1)
+    tzinfo (2.0.1)
+      concurrent-ruby (~> 1.0)
     uglifier (4.2.0)
       execjs (>= 0.3.0, < 3)
     underscore-rails (1.8.3)
