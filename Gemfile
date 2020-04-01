@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', git: 'https://github.com/rails/rails'
 
-ruby '2.7.0'
+ruby '2.7.1'
 
 gem 'sassc-rails'
 gem 'rails-controller-testing'
