@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 35a103a96e4879df1b84062fa2ac6aa9d97ded71
+  revision: acaa546026471354ae1ff15e96c6bf5d39b0e34a
   specs:
     actioncable (6.1.0.alpha)
       actionpack (= 6.1.0.alpha)
@@ -189,7 +189,7 @@ GEM
       activesupport (>= 4.2.0)
       rack (>= 1.1)
       rubocop (>= 0.87.0)
-    rubocop-rspec (1.43.1)
+    rubocop-rspec (1.43.2)
       rubocop (~> 0.87)
     ruby-progressbar (1.10.1)
     sassc (2.4.0)
@@ -202,7 +202,7 @@ GEM
       tilt
     sdoc (1.1.0)
       rdoc (>= 5.0)
-    spring (2.1.0)
+    spring (2.1.1)
     spring-commands-rspec (1.0.4)
       spring (>= 0.9.1)
     sprockets (4.0.2)
