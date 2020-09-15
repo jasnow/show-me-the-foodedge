@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: d097ee97069c82968cc58c4d3ed45acbcb198de7
+  revision: 77fc1c2b8ee95d5ee92224639aa41b91127d20c4
   specs:
     actioncable (6.1.0.alpha)
       actionpack (= 6.1.0.alpha)
@@ -174,13 +174,13 @@ GEM
       rspec-mocks (~> 3.9)
       rspec-support (~> 3.9)
     rspec-support (3.9.3)
-    rubocop (0.90.0)
+    rubocop (0.91.0)
       parallel (~> 1.10)
       parser (>= 2.7.1.1)
       rainbow (>= 2.2.2, < 4.0)
       regexp_parser (>= 1.7)
       rexml
-      rubocop-ast (>= 0.3.0, < 1.0)
+      rubocop-ast (>= 0.4.0, < 1.0)
       ruby-progressbar (~> 1.7)
       unicode-display_width (>= 1.4.0, < 2.0)
     rubocop-ast (0.4.0)
