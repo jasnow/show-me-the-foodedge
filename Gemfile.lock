@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 77fc1c2b8ee95d5ee92224639aa41b91127d20c4
+  revision: 46ea76980f8d335bc723dedcd6272eac0e8582d3
   specs:
     actioncable (6.1.0.alpha)
       actionpack (= 6.1.0.alpha)
@@ -127,7 +127,7 @@ GEM
     mini_mime (1.0.2)
     mini_portile2 (2.4.0)
     minitest (5.14.2)
-    nio4r (2.5.3)
+    nio4r (2.5.4)
     nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
     overcommit (0.55.0)
@@ -185,7 +185,7 @@ GEM
       unicode-display_width (>= 1.4.0, < 2.0)
     rubocop-ast (0.4.0)
       parser (>= 2.7.1.4)
-    rubocop-rails (2.8.0)
+    rubocop-rails (2.8.1)
       activesupport (>= 4.2.0)
       rack (>= 1.1)
       rubocop (>= 0.87.0)
