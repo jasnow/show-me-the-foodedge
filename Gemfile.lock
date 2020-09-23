@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 3749da1509f1559bbf26d378c0da3efa9943e443
+  revision: fb852668dff2786a4cfb30ad923830da9eed2476
   specs:
     actioncable (6.1.0.alpha)
       actionpack (= 6.1.0.alpha)
@@ -54,6 +54,7 @@ GIT
       activerecord (= 6.1.0.alpha)
       activesupport (= 6.1.0.alpha)
       marcel (~> 0.3.1)
+      mimemagic (~> 0.3.2)
     activesupport (6.1.0.alpha)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 1.6, < 2)
@@ -174,7 +175,7 @@ GEM
       rspec-mocks (~> 3.9)
       rspec-support (~> 3.9)
     rspec-support (3.9.3)
-    rubocop (0.91.0)
+    rubocop (0.91.1)
       parallel (~> 1.10)
       parser (>= 2.7.1.1)
       rainbow (>= 2.2.2, < 4.0)
