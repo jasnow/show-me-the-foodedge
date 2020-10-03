@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', git: 'https://github.com/rails/rails'
 
-ruby '2.7.1'
+ruby '2.7.2'
 
 gem 'sassc-rails'
 gem 'rails-controller-testing'
@@ -10,7 +10,7 @@ gem 'turbolinks'
 gem 'geocoder'
 gem 'gmaps4rails'
 gem 'jquery-rails'
-gem 'pg'
+#HID: gem 'pg' # HID on 10/3/2020
 gem 'sprockets-rails'
 gem 'sqlite3'
 gem 'uglifier'
