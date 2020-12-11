@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 46337faa795fa40dedb1b9b906bec1793358d7f3
+  revision: eb9b99287a1681e54bbebd679c492416b3040392
   specs:
     actioncable (6.2.0.alpha)
       actionpack (= 6.2.0.alpha)
@@ -201,7 +201,7 @@ GEM
       sprockets (> 3.0)
       sprockets-rails
       tilt
-    sdoc (2.0.2)
+    sdoc (2.0.3)
       rdoc (>= 5.0)
     spring (2.1.1)
     spring-commands-rspec (1.0.4)
