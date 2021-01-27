@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 8b3fc5ce30629cb098e923396c3eb797365c88d2
+  revision: c38db7247249a36cfe23dad0f57e4a7883bf14ab
   branch: main
   specs:
     actioncable (6.2.0.alpha)
@@ -264,4 +264,4 @@ RUBY VERSION
    ruby 2.7.2p137
 
 BUNDLED WITH
-   2.2.6
+   2.2.7
