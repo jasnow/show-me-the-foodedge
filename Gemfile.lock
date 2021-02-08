@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: a33334ada13426fc9b817a85ebbd5fb9ae2aaabb
+  revision: 6515d6985d2b537486bd9d1faa95212a508dc42c
   branch: main
   specs:
     actioncable (7.0.0.alpha)
@@ -139,7 +139,7 @@ GEM
     parallel (1.20.1)
     parser (3.0.0.0)
       ast (~> 2.4.1)
-    pry (0.13.1)
+    pry (0.14.0)
       coderay (~> 1.1)
       method_source (~> 1.0)
     racc (1.5.2)
