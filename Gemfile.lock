@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: e287eed77a2a52c55a03133152c142a458ce8d9e
+  revision: 7702ce8243288265255d042c06fe1ca25e8c02ae
   branch: main
   specs:
     actioncable (7.0.0.alpha)
@@ -125,7 +125,7 @@ GEM
     marcel (0.3.3)
       mimemagic (~> 0.3.2)
     method_source (1.0.0)
-    mimemagic (0.3.5)
+    mimemagic (0.3.6)
     mini_mime (1.0.2)
     minitest (5.14.4)
     nio4r (2.5.7)
