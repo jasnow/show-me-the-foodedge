@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 224c9b34cb4fdc6989707f6e18e0a156e0864257
+  revision: 432bc68a2ca2a37e07c572b49fd48ed2b3061287
   branch: main
   specs:
     actioncable (7.0.0.alpha)
@@ -122,7 +122,7 @@ GEM
       nokogiri (>= 1.5.9)
     mail (2.7.1)
       mini_mime (>= 0.1.1)
-    marcel (1.0.0)
+    marcel (1.0.1)
     method_source (1.0.0)
     mini_mime (1.0.3)
     minitest (5.14.4)
