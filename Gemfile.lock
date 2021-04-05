@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 80bd07a61a96a77dcc8161621ec5275f2d1e9486
+  revision: b80a2bdeb955c81649e483f2f020a3d5f407c2f9
   branch: main
   specs:
     actioncable (7.0.0.alpha)
@@ -55,7 +55,7 @@ GIT
       activerecord (= 7.0.0.alpha)
       activesupport (= 7.0.0.alpha)
       marcel (~> 1.0.0)
-      mini_mime (~> 1.0.2)
+      mini_mime (>= 1.1.0)
     activesupport (7.0.0.alpha)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 1.6, < 2)
@@ -124,7 +124,7 @@ GEM
       mini_mime (>= 0.1.1)
     marcel (1.0.1)
     method_source (1.0.0)
-    mini_mime (1.0.3)
+    mini_mime (1.1.0)
     minitest (5.14.4)
     nio4r (2.5.7)
     nokogiri (1.11.2-x86_64-darwin)
@@ -157,7 +157,7 @@ GEM
     rake (13.0.3)
     rdoc (6.3.0)
     regexp_parser (2.1.1)
-    rexml (3.2.4)
+    rexml (3.2.5)
     rspec-core (3.10.1)
       rspec-support (~> 3.10.0)
     rspec-expectations (3.10.1)
