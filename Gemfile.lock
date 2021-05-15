@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 817148a7472413b31b3334c20fc08c6da5ffc68a
+  revision: 002c4fe6d9bf2b76bd2c1d365614ad1e0cef17df
   branch: main
   specs:
     actioncable (7.0.0.alpha)
@@ -127,9 +127,9 @@ GEM
     mini_mime (1.1.0)
     minitest (5.14.4)
     nio4r (2.5.7)
-    nokogiri (1.11.3-x86_64-darwin)
+    nokogiri (1.11.4-x86_64-darwin)
       racc (~> 1.4)
-    nokogiri (1.11.3-x86_64-linux)
+    nokogiri (1.11.4-x86_64-linux)
       racc (~> 1.4)
     overcommit (0.57.0)
       childprocess (>= 0.6.3, < 5)
