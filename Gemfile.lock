@@ -202,7 +202,7 @@ GEM
       sprockets (> 3.0)
       sprockets-rails
       tilt
-    sdoc (2.1.0)
+    sdoc (2.2.0)
       rdoc (>= 5.0)
     spring (2.1.1)
     spring-commands-rspec (1.0.4)
