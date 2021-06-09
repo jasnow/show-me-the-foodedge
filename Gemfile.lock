@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 4493db2109ddc924cdf3a1d41de10ab87f4cc1d4
+  revision: a933330335a4026c174d31a2dcd4cb601b9f01a5
   branch: main
   specs:
     actioncable (7.0.0.alpha)
@@ -89,7 +89,7 @@ GEM
   specs:
     ast (2.4.2)
     builder (3.2.4)
-    childprocess (4.0.0)
+    childprocess (4.1.0)
     coderay (1.1.3)
     coffee-script (2.4.1)
       coffee-script-source
@@ -176,7 +176,7 @@ GEM
       rspec-mocks (~> 3.10)
       rspec-support (~> 3.10)
     rspec-support (3.10.2)
-    rubocop (1.16.0)
+    rubocop (1.16.1)
       parallel (~> 1.10)
       parser (>= 3.0.0.0)
       rainbow (>= 2.2.2, < 4.0)
