@@ -13,7 +13,7 @@ gem 'jquery-rails'
 #HID: gem 'pg' # HID on 10/3/2020
 gem 'sprockets-rails'
 gem 'sqlite3'
-gem 'uglifier'
+gem 'terser'
 gem 'underscore-rails'
 gem 'coffee-script'
 

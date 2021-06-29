@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 1cdee90d385399083596c22343cc46f51283aca3
+  revision: 8be6e7af27a11960ef76a8b46fb5cf171c54beed
   branch: main
   specs:
     actioncable (7.0.0.alpha)
@@ -216,6 +216,8 @@ GEM
       activesupport (>= 4.0)
       sprockets (>= 3.0.0)
     sqlite3 (1.4.2)
+    terser (1.1.5)
+      execjs (>= 0.3.0, < 3)
     thor (1.1.0)
     tilt (2.0.10)
     turbolinks (5.2.1)
@@ -223,8 +225,6 @@ GEM
     turbolinks-source (5.2.0)
     tzinfo (2.0.4)
       concurrent-ruby (~> 1.0)
-    uglifier (4.2.0)
-      execjs (>= 0.3.0, < 3)
     underscore-rails (1.8.3)
     unicode-display_width (2.0.0)
     websocket-driver (0.7.5)
@@ -255,8 +255,8 @@ DEPENDENCIES
   spring-commands-rspec
   sprockets-rails
   sqlite3
+  terser
   turbolinks
-  uglifier
   underscore-rails
 
 RUBY VERSION
