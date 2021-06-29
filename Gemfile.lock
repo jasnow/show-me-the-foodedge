@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 0ffdf6dfe7e5dbb7d9119ee68c21ccd813d18b26
+  revision: 1cdee90d385399083596c22343cc46f51283aca3
   branch: main
   specs:
     actioncable (7.0.0.alpha)
@@ -176,7 +176,7 @@ GEM
       rspec-mocks (~> 3.10)
       rspec-support (~> 3.10)
     rspec-support (3.10.2)
-    rubocop (1.17.0)
+    rubocop (1.18.0)
       parallel (~> 1.10)
       parser (>= 3.0.0.0)
       rainbow (>= 2.2.2, < 4.0)
