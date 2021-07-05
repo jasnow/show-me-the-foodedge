@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 7179dcb269b6cd9fa7504c9bfbe9585021ba8784
+  revision: e9e8ea2b2071c8228625a72d51e0d3a589611eaa
   branch: main
   specs:
     actioncable (7.0.0.alpha)
@@ -156,7 +156,7 @@ GEM
       loofah (~> 2.3)
     rainbow (3.0.0)
     rake (13.0.3)
-    rdoc (6.3.1)
+    rdoc (6.3.2)
     regexp_parser (2.1.1)
     rexml (3.2.5)
     rspec-core (3.10.1)
