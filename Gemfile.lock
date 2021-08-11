@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 5e8a26d70559c0b3183e81a5d2775d19146b0c04
+  revision: 5e83ad3fbdfbd1844f1f6c59f3027069c59f76cc
   branch: main
   specs:
     actioncable (7.0.0.alpha)
@@ -127,9 +127,9 @@ GEM
     mini_mime (1.1.0)
     minitest (5.14.4)
     nio4r (2.5.8)
-    nokogiri (1.12.2-x86_64-darwin)
+    nokogiri (1.12.3-x86_64-darwin)
       racc (~> 1.4)
-    nokogiri (1.12.2-x86_64-linux)
+    nokogiri (1.12.3-x86_64-linux)
       racc (~> 1.4)
     overcommit (0.58.0)
       childprocess (>= 0.6.3, < 5)
@@ -185,7 +185,7 @@ GEM
       rubocop-ast (>= 1.8.0, < 2.0)
       ruby-progressbar (~> 1.7)
       unicode-display_width (>= 1.4.0, < 3.0)
-    rubocop-ast (1.9.0)
+    rubocop-ast (1.9.1)
       parser (>= 3.0.1.1)
     rubocop-rails (2.11.3)
       activesupport (>= 4.2.0)
