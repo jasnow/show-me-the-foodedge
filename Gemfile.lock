@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: fa1a4b657c7167a8671a359a55de3f9b37f4330b
+  revision: df94beb8a30e892d8b48508e11084742f1aeecc2
   branch: main
   specs:
     actioncable (7.0.0.alpha)
@@ -187,7 +187,7 @@ GEM
       unicode-display_width (>= 1.4.0, < 3.0)
     rubocop-ast (1.11.0)
       parser (>= 3.0.1.1)
-    rubocop-rails (2.11.3)
+    rubocop-rails (2.12.0)
       activesupport (>= 4.2.0)
       rack (>= 1.1)
       rubocop (>= 1.7.0, < 2.0)
@@ -205,7 +205,7 @@ GEM
       tilt
     sdoc (2.2.0)
       rdoc (>= 5.0)
-    spring (2.1.1)
+    spring (3.0.0)
     spring-commands-rspec (1.0.4)
       spring (>= 0.9.1)
     sprockets (4.0.2)
