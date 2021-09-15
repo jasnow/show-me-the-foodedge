@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 0b5c7210af13021aab488adea76cec04a0c218fc
+  revision: 4a5d8fc3c6d87f3555b0740b0df91a8689297b82
   branch: main
   specs:
     actioncable (7.0.0.alpha)
@@ -216,7 +216,7 @@ GEM
       activesupport (>= 4.0)
       sprockets (>= 3.0.0)
     sqlite3 (1.4.2)
-    terser (1.1.5)
+    terser (1.1.6)
       execjs (>= 0.3.0, < 3)
     thor (1.1.0)
     tilt (2.0.10)
@@ -226,7 +226,7 @@ GEM
     tzinfo (2.0.4)
       concurrent-ruby (~> 1.0)
     underscore-rails (1.8.3)
-    unicode-display_width (2.0.0)
+    unicode-display_width (2.1.0)
     websocket-driver (0.7.5)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.5)
