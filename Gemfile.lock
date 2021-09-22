@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 1a240cf83e03527567dea68f3c6bea5301d90113
+  revision: e44ce53f78fb376d8d48145e2319204a1a2ebfc9
   branch: main
   specs:
     actioncable (7.0.0.alpha2)
@@ -82,7 +82,7 @@ GIT
       method_source
       rake (>= 0.13)
       thor (~> 1.0)
-      zeitwerk (~> 2.5.0.beta3)
+      zeitwerk (~> 2.5.0.beta4)
 
 GEM
   remote: https://rubygems.org/
@@ -191,9 +191,8 @@ GEM
       activesupport (>= 4.2.0)
       rack (>= 1.1)
       rubocop (>= 1.7.0, < 2.0)
-    rubocop-rspec (2.4.0)
-      rubocop (~> 1.0)
-      rubocop-ast (>= 1.1.0)
+    rubocop-rspec (2.5.0)
+      rubocop (~> 1.19)
     ruby-progressbar (1.11.0)
     sassc (2.4.0)
       ffi (~> 1.9)
@@ -230,7 +229,7 @@ GEM
     websocket-driver (0.7.5)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.5)
-    zeitwerk (2.5.0.beta3)
+    zeitwerk (2.5.0.beta4)
 
 PLATFORMS
   x86_64-darwin-16
