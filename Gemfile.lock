@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: e44ce53f78fb376d8d48145e2319204a1a2ebfc9
+  revision: 6d42731ded6727b0aa2a2ff8782f6bdbd4dc17f8
   branch: main
   specs:
     actioncable (7.0.0.alpha2)
@@ -215,7 +215,7 @@ GEM
       activesupport (>= 4.0)
       sprockets (>= 3.0.0)
     sqlite3 (1.4.2)
-    terser (1.1.6)
+    terser (1.1.7)
       execjs (>= 0.3.0, < 3)
     thor (1.1.0)
     tilt (2.0.10)
