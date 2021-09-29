@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 999c1181b50b88bc3fa21132e0e878fb890514ef
+  revision: d59e729fbf48858b672814194a180d6ddf795f3d
   branch: main
   specs:
     actioncable (7.0.0.alpha2)
@@ -82,7 +82,7 @@ GIT
       method_source
       rake (>= 0.13)
       thor (~> 1.0)
-      zeitwerk (~> 2.5.0.beta4)
+      zeitwerk (~> 2.5.0.beta5)
 
 GEM
   remote: https://rubygems.org/
@@ -176,13 +176,13 @@ GEM
       rspec-mocks (~> 3.10)
       rspec-support (~> 3.10)
     rspec-support (3.10.2)
-    rubocop (1.21.0)
+    rubocop (1.22.0)
       parallel (~> 1.10)
       parser (>= 3.0.0.0)
       rainbow (>= 2.2.2, < 4.0)
       regexp_parser (>= 1.8, < 3.0)
       rexml
-      rubocop-ast (>= 1.9.1, < 2.0)
+      rubocop-ast (>= 1.12.0, < 2.0)
       ruby-progressbar (~> 1.7)
       unicode-display_width (>= 1.4.0, < 3.0)
     rubocop-ast (1.12.0)
@@ -229,7 +229,7 @@ GEM
     websocket-driver (0.7.5)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.5)
-    zeitwerk (2.5.0.beta4)
+    zeitwerk (2.5.0.beta5)
 
 PLATFORMS
   x86_64-darwin-16
