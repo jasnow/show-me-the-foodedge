@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: fe4377098b3800c3998f0583549a414b99b72b19
+  revision: 10c0b5939f8d7f3959990dd4eeb59f0b864147df
   branch: main
   specs:
     actioncable (7.0.0.alpha2)
@@ -187,7 +187,7 @@ GEM
       unicode-display_width (>= 1.4.0, < 3.0)
     rubocop-ast (1.12.0)
       parser (>= 3.0.1.1)
-    rubocop-rails (2.12.2)
+    rubocop-rails (2.12.3)
       activesupport (>= 4.2.0)
       rack (>= 1.1)
       rubocop (>= 1.7.0, < 2.0)
