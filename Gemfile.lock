@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 5e1a039a1dd63ab70300a1340226eab690444cea
+  revision: fb1ab3460a676ce7def0819c2e92289ef2dcbe3b
   branch: main
   specs:
     actioncable (7.0.0.alpha2)
@@ -75,7 +75,6 @@ GIT
       activesupport (= 7.0.0.alpha2)
       bundler (>= 1.15.0)
       railties (= 7.0.0.alpha2)
-      sprockets-rails (>= 2.0.0)
     railties (7.0.0.alpha2)
       actionpack (= 7.0.0.alpha2)
       activesupport (= 7.0.0.alpha2)
