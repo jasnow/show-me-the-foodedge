@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: f82f68a2efd4a89514fbc9f41ed943f5c5693409
+  revision: 826f947ce7078a66e93276c8102dd235bb629911
   branch: main
   specs:
     actioncable (7.0.0.alpha2)
@@ -105,7 +105,7 @@ GEM
       factory_bot (~> 6.2.0)
       railties (>= 5.0.0)
     ffi (1.15.4)
-    geocoder (1.6.7)
+    geocoder (1.7.0)
     globalid (0.5.2)
       activesupport (>= 5.0)
     gmaps4rails (2.1.2)
