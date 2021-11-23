@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: b5946d5df7cae9c3816d6a671fa1155a556512c1
+  revision: 9606aa70b1ed88b3fba51eceffbd3398a076b55b
   branch: main
   specs:
     actioncable (7.0.0.alpha2)
@@ -203,7 +203,7 @@ GEM
       tilt
     sdoc (2.2.0)
       rdoc (>= 5.0)
-    spring (3.0.0)
+    spring (3.1.0)
     spring-commands-rspec (1.0.4)
       spring (>= 0.9.1)
     sprockets (4.0.2)
@@ -261,4 +261,4 @@ RUBY VERSION
    ruby 2.7.4p191
 
 BUNDLED WITH
-   2.2.31
+   2.2.32
