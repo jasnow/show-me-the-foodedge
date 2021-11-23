@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 30363d0b1da86772392ab315ba0afdc65f302817
+  revision: b5946d5df7cae9c3816d6a671fa1155a556512c1
   branch: main
   specs:
     actioncable (7.0.0.alpha2)
@@ -209,7 +209,7 @@ GEM
     sprockets (4.0.2)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
-    sprockets-rails (3.4.0)
+    sprockets-rails (3.4.1)
       actionpack (>= 5.2)
       activesupport (>= 5.2)
       sprockets (>= 3.0.0)
