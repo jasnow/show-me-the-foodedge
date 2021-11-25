@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 4b6ac01fbb2ed0d0444654bba062d1e2ae88ffe7
+  revision: 5fa7049856cab9fbd188cad90d57947252ef9ea8
   branch: main
   specs:
     actioncable (7.0.0.alpha2)
@@ -34,6 +34,7 @@ GIT
       activerecord (= 7.0.0.alpha2)
       activestorage (= 7.0.0.alpha2)
       activesupport (= 7.0.0.alpha2)
+      globalid (>= 0.6.0)
       nokogiri (>= 1.8.5)
     actionview (7.0.0.alpha2)
       activesupport (= 7.0.0.alpha2)
@@ -106,7 +107,7 @@ GEM
       railties (>= 5.0.0)
     ffi (1.15.4)
     geocoder (1.7.0)
-    globalid (0.5.2)
+    globalid (0.6.0)
       activesupport (>= 5.0)
     gmaps4rails (2.1.2)
     i18n (1.8.11)
@@ -214,7 +215,7 @@ GEM
       activesupport (>= 5.2)
       sprockets (>= 3.0.0)
     sqlite3 (1.4.2)
-    terser (1.1.7)
+    terser (1.1.8)
       execjs (>= 0.3.0, < 3)
     thor (1.1.0)
     tilt (2.0.10)
