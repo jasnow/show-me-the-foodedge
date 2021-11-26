@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 5fa7049856cab9fbd188cad90d57947252ef9ea8
+  revision: 0181f0edd57a2149278bd59c3519233ca1e0a413
   branch: main
   specs:
     actioncable (7.0.0.alpha2)
@@ -107,7 +107,7 @@ GEM
       railties (>= 5.0.0)
     ffi (1.15.4)
     geocoder (1.7.0)
-    globalid (0.6.0)
+    globalid (1.0.0)
       activesupport (>= 5.0)
     gmaps4rails (2.1.2)
     i18n (1.8.11)
@@ -136,7 +136,7 @@ GEM
       iniparse (~> 1.4)
       rexml (~> 3.2)
     parallel (1.21.0)
-    parser (3.0.2.0)
+    parser (3.0.3.0)
       ast (~> 2.4.1)
     pry (0.14.1)
       coderay (~> 1.1)
@@ -204,7 +204,7 @@ GEM
       tilt
     sdoc (2.2.0)
       rdoc (>= 5.0)
-    spring (3.1.0)
+    spring (3.1.1)
     spring-commands-rspec (1.0.4)
       spring (>= 0.9.1)
     sprockets (4.0.2)
