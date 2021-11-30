@@ -136,7 +136,7 @@ GEM
       iniparse (~> 1.4)
       rexml (~> 3.2)
     parallel (1.21.0)
-    parser (3.0.3.0)
+    parser (3.0.3.1)
       ast (~> 2.4.1)
     pry (0.14.1)
       coderay (~> 1.1)
