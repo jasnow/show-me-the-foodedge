@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 35a5f22e1b7802538230387395ac271c1690848b
+  revision: b6f4177a6d6361adcb802d5adfb5e1cb46c359fe
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -190,7 +190,7 @@ GEM
       unicode-display_width (>= 1.4.0, < 3.0)
     rubocop-ast (1.15.0)
       parser (>= 3.0.1.1)
-    rubocop-rails (2.12.4)
+    rubocop-rails (2.13.0)
       activesupport (>= 4.2.0)
       rack (>= 1.1)
       rubocop (>= 1.7.0, < 2.0)
@@ -263,7 +263,7 @@ DEPENDENCIES
   underscore-rails
 
 RUBY VERSION
-   ruby 2.7.5p203
+   ruby 3.0.3p157
 
 BUNDLED WITH
-   2.3.2
+   2.3.3
