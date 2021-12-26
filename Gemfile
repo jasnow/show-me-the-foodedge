@@ -2,7 +2,8 @@ source 'https://rubygems.org'
 
 gem 'rails', git: 'https://github.com/rails/rails', branch: 'main'
 
-ruby '3.0.3'
+ruby '3.1.0'
+gem 'net-smtp' # Added for Ruby 3.1.
 
 gem 'sassc-rails'
 gem 'rails-controller-testing'
