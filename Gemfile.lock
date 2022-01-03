@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 2bfcd8b025eef2de053437010d4542681932afd4
+  revision: a3930799eac5d255180d8feefde6dff36c941483
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -107,7 +107,7 @@ GEM
       factory_bot (~> 6.2.0)
       railties (>= 5.0.0)
     ffi (1.15.4)
-    geocoder (1.7.1)
+    geocoder (1.7.2)
     globalid (1.0.0)
       activesupport (>= 5.0)
     gmaps4rails (2.1.2)
@@ -145,7 +145,7 @@ GEM
       iniparse (~> 1.4)
       rexml (~> 3.2)
     parallel (1.21.0)
-    parser (3.0.3.2)
+    parser (3.1.0.0)
       ast (~> 2.4.1)
     pry (0.14.1)
       coderay (~> 1.1)
@@ -246,6 +246,7 @@ GEM
     zeitwerk (2.5.3)
 
 PLATFORMS
+  x86_64-darwin-16
   x86_64-linux
 
 DEPENDENCIES
