@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 2b05b25809a53a7765d04b2aa9ed0f2f96aa83a5
+  revision: 1d665e13a25005bba7e3d590cf57dfd9dd7b0dbd
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -266,7 +266,6 @@ DEPENDENCIES
   geocoder
   gmaps4rails
   jquery-rails
-  net-smtp
   overcommit
   pry
   rails!
