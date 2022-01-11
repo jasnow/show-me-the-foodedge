@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: df24d689bcb11953aa4e1ab5316873d2479255a3
+  revision: dc7bb3aa7effda23b2af0ccffa5128747cebee58
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -177,7 +177,7 @@ GEM
       nokogiri (>= 1.6)
     rails-html-sanitizer (1.4.2)
       loofah (~> 2.3)
-    rainbow (3.0.0)
+    rainbow (3.1.1)
     rake (13.0.6)
     rdoc (6.3.3)
     regexp_parser (2.2.0)
