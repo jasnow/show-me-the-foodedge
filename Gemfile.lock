@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: bd41655d17ff85c3118a4c69d19bad47b6a2890f
+  revision: efae65d005ee298207d720fb4f61c28a38973e8e
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -117,7 +117,7 @@ GEM
     globalid (1.0.0)
       activesupport (>= 5.0)
     gmaps4rails (2.1.2)
-    i18n (1.8.11)
+    i18n (1.9.0)
       concurrent-ruby (~> 1.0)
     iniparse (1.5.0)
     io-wait (0.2.1)
