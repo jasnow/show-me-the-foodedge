@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: b764fc24c88fbd7caf580d8ac3e94e3aaccd2726
+  revision: 61d6eb119fc53678d8f5028bd73ae77e69b91fb6
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -102,7 +102,7 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.12.2)
-    concurrent-ruby (1.1.9)
+    concurrent-ruby (1.1.10)
     crass (1.0.6)
     diff-lcs (1.5.0)
     digest (3.1.0)
@@ -200,7 +200,7 @@ GEM
       rspec-mocks (~> 3.10)
       rspec-support (~> 3.10)
     rspec-support (3.11.0)
-    rubocop (1.26.0)
+    rubocop (1.26.1)
       parallel (~> 1.10)
       parser (>= 3.1.0.0)
       rainbow (>= 2.2.2, < 4.0)
