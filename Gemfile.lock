@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 8d041634212daa6bd816e2cd9e0120d3acd6d11b
+  revision: 5a16eadbc31b8d7ab0f1fecb9aee581fc1d97327
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -102,7 +102,7 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.12.2)
-    concurrent-ruby (1.1.10)
+    concurrent-ruby (1.2.0)
     connection_pool (2.3.0)
     crass (1.0.6)
     date (3.3.3)
