@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: fcbf293ebdb49317b091a9d4c1b5b73c7381c871
+  revision: f0ffc0b32173114d0ecbd1ea4d87fe52e326eb90
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -261,7 +261,7 @@ GEM
     turbolinks (5.2.1)
       turbolinks-source (~> 5.2)
     turbolinks-source (5.2.0)
-    tzinfo (2.0.5)
+    tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
     underscore-rails (1.8.3)
     unicode-display_width (2.4.2)
