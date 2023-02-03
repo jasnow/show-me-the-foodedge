@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: f98dda8e1412888190e3dc402788b59a4dff43d3
+  revision: 73255bae9e2eb1494b01d120530eab6d0b371646
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -253,7 +253,7 @@ GEM
       sprockets (>= 3.0.0)
     sqlite3 (1.6.0-x86_64-darwin)
     sqlite3 (1.6.0-x86_64-linux)
-    stringio (3.0.4)
+    stringio (3.0.5)
     terser (1.1.13)
       execjs (>= 0.3.0, < 3)
     thor (1.2.1)
