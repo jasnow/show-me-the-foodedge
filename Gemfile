@@ -33,4 +33,5 @@ group :development, :test do
   gem "overcommit"
   gem "standard"
   gem "ruby_audit"
+  gem "spektr"
 end

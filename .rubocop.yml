@@ -1,1 +1,4 @@
 require: rubocop-rails
+
+AllCops:
+  NewCops: enable
