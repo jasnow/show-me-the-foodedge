@@ -10,8 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2014_10_27_235356) do
-
+ActiveRecord::Schema[7.1].define(version: 2014_10_27_235356) do
   create_table "locations", force: :cascade do |t|
     t.float "latitude"
     t.float "longitude"
@@ -31,8 +30,8 @@ ActiveRecord::Schema.define(version: 2014_10_27_235356) do
     t.string "val_acres"
     t.string "structure_year"
     t.string "source"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
+    t.datetime "created_at", precision: nil, null: false
+    t.datetime "updated_at", precision: nil, null: false
     t.boolean "ebt"
     t.string "county"
   end
