@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: aa2052ec4ceb64682828154e8669ac0327c678db
+  revision: cc0951dbb8b4564f8263622e6f58f0b094e516d9
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -113,6 +113,7 @@ GEM
     crass (1.0.6)
     date (3.3.3)
     diff-lcs (1.5.0)
+    docile (1.4.0)
     erubi (1.12.0)
     execjs (2.8.1)
     factory_bot (6.2.1)
@@ -259,10 +260,16 @@ GEM
     sdoc (2.6.1)
       rdoc (>= 5.0)
     sexp_processor (4.16.1)
+    simplecov (0.22.0)
+      docile (~> 1.1)
+      simplecov-html (~> 0.11)
+      simplecov_json_formatter (~> 0.1)
+    simplecov-html (0.12.3)
+    simplecov_json_formatter (0.1.4)
     slim (5.0.0)
       temple (~> 0.10.0)
       tilt (>= 2.0.6, < 2.1)
-    spektr (0.4.0)
+    spektr (0.4.1)
       erubi
       haml
       parser (>= 2.6.0)
@@ -346,6 +353,7 @@ DEPENDENCIES
   ruby_audit
   sassc-rails
   sdoc
+  simplecov
   spektr
   spring
   spring-commands-rspec

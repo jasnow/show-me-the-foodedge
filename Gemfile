@@ -31,6 +31,7 @@ group :development, :test do
   gem "rubocop-rspec"
   gem "rubocop-rails"
   gem "overcommit"
+  gem 'simplecov', require: false
   gem "standard"
   gem "ruby_audit"
   gem "spektr"
