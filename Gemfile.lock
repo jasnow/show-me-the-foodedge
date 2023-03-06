@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: d0d9e8e576b06c19f850751001d19efadf81df73
+  revision: 779c14bf16421ebe7b8f09ef4b58c727fa440f88
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -241,7 +241,7 @@ GEM
       activesupport (>= 4.2.0)
       rack (>= 1.1)
       rubocop (>= 1.33.0, < 2.0)
-    rubocop-rspec (2.18.1)
+    rubocop-rspec (2.19.0)
       rubocop (~> 1.33)
       rubocop-capybara (~> 2.17)
     ruby-progressbar (1.13.0)
@@ -266,9 +266,9 @@ GEM
       simplecov_json_formatter (~> 0.1)
     simplecov-html (0.12.3)
     simplecov_json_formatter (0.1.4)
-    slim (5.0.0)
+    slim (5.1.0)
       temple (~> 0.10.0)
-      tilt (>= 2.0.6, < 2.1)
+      tilt (>= 2.0.6, < 2.2)
     spektr (0.4.1)
       erubi
       haml
@@ -307,7 +307,7 @@ GEM
     terser (1.1.14)
       execjs (>= 0.3.0, < 3)
     thor (1.2.1)
-    tilt (2.0.11)
+    tilt (2.1.0)
     timeout (0.3.2)
     tty-color (0.6.0)
     tty-cursor (0.7.1)
