@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 335733b8583795e352412d4cb5d465c6ae7c0501
+  revision: 13ea2d76d0f87615e37eff43aecae21e9e390785
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -184,7 +184,7 @@ GEM
     psych (5.1.0)
       stringio
     racc (1.6.2)
-    rack (3.0.6.1)
+    rack (3.0.7)
     rack-session (2.0.0)
       rack (>= 3.0.0)
     rack-test (2.1.0)
