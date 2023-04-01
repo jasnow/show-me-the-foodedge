@@ -1,1 +1,1 @@
-rvm use 3.2.1@ruby3.2-railsedge --create
+rvm use 3.2.2@ruby3.2-railsedge --create
