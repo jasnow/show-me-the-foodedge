@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 539144d2d61770dab66c8643e744441e52538e09
+  revision: ac23ed621d118e58ca6020bb8a26aa1056a9b1e1
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -172,7 +172,7 @@ GEM
       childprocess (>= 0.6.3, < 5)
       iniparse (~> 1.4)
       rexml (~> 3.2)
-    parallel (1.22.1)
+    parallel (1.23.0)
     parser (3.2.2.0)
       ast (~> 2.4.1)
     pastel (0.8.0)
@@ -208,7 +208,7 @@ GEM
     reline (0.3.3)
       io-console (~> 0.5)
     rexml (3.2.5)
-    rspec-core (3.12.1)
+    rspec-core (3.12.2)
       rspec-support (~> 3.12.0)
     rspec-expectations (3.12.2)
       diff-lcs (>= 1.2.0, < 2.0)
@@ -225,14 +225,14 @@ GEM
       rspec-mocks (~> 3.11)
       rspec-support (~> 3.11)
     rspec-support (3.12.0)
-    rubocop (1.48.1)
+    rubocop (1.50.2)
       json (~> 2.3)
       parallel (~> 1.10)
       parser (>= 3.2.0.0)
       rainbow (>= 2.2.2, < 4.0)
       regexp_parser (>= 1.8, < 3.0)
       rexml (>= 3.2.5, < 4.0)
-      rubocop-ast (>= 1.26.0, < 2.0)
+      rubocop-ast (>= 1.28.0, < 2.0)
       ruby-progressbar (~> 1.7)
       unicode-display_width (>= 2.4.0, < 3.0)
     rubocop-ast (1.28.0)
@@ -298,9 +298,9 @@ GEM
       sprockets (>= 3.0.0)
     sqlite3 (1.6.2-x86_64-darwin)
     sqlite3 (1.6.2-x86_64-linux)
-    standard (1.26.0)
+    standard (1.27.0)
       language_server-protocol (~> 3.17.0.2)
-      rubocop (~> 1.48.1)
+      rubocop (~> 1.50.2)
       rubocop-performance (~> 1.16.0)
     stringio (3.0.6)
     strings (0.2.1)
