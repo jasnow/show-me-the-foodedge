@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: b130a169f51c808aa197821eeb34c247ec705fc8
+  revision: 8049d7983f3f8fa9679e5ccfb21814554cd60297
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -217,14 +217,14 @@ GEM
     rspec-mocks (3.12.5)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.12.0)
-    rspec-rails (6.0.1)
+    rspec-rails (6.0.2)
       actionpack (>= 6.1)
       activesupport (>= 6.1)
       railties (>= 6.1)
-      rspec-core (~> 3.11)
-      rspec-expectations (~> 3.11)
-      rspec-mocks (~> 3.11)
-      rspec-support (~> 3.11)
+      rspec-core (~> 3.12)
+      rspec-expectations (~> 3.12)
+      rspec-mocks (~> 3.12)
+      rspec-support (~> 3.12)
     rspec-support (3.12.0)
     rubocop (1.50.2)
       json (~> 2.3)
@@ -265,7 +265,7 @@ GEM
       tilt
     sdoc (2.6.1)
       rdoc (>= 5.0)
-    sexp_processor (4.16.1)
+    sexp_processor (4.17.0)
     simplecov (0.22.0)
       docile (~> 1.1)
       simplecov-html (~> 0.11)
