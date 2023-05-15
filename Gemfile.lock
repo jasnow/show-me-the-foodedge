@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: d1028617c5875c2da08007c5db37425481db6737
+  revision: 59e08a5c55b4297a8d6fc9f8641bd3bb159d2300
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -240,7 +240,7 @@ GEM
       parser (>= 3.2.1.0)
     rubocop-capybara (2.18.0)
       rubocop (~> 1.41)
-    rubocop-factory_bot (2.22.0)
+    rubocop-factory_bot (2.23.0)
       rubocop (~> 1.33)
     rubocop-performance (1.16.0)
       rubocop (>= 1.7.0, < 2.0)
