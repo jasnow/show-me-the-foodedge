@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: d026af43c35c25814b4d16511f1b8fc6d70a4569
+  revision: 5dd4dcbae3647cb4b37000bfe6273d6865bd6dc8
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -130,7 +130,7 @@ GEM
       temple (>= 0.8.2)
       thor
       tilt
-    i18n (1.13.0)
+    i18n (1.14.0)
       concurrent-ruby (~> 1.0)
     iniparse (1.5.0)
     io-console (0.6.0)
@@ -237,7 +237,7 @@ GEM
       rubocop-ast (>= 1.28.0, < 2.0)
       ruby-progressbar (~> 1.7)
       unicode-display_width (>= 2.4.0, < 3.0)
-    rubocop-ast (1.28.1)
+    rubocop-ast (1.29.0)
       parser (>= 3.2.1.0)
     rubocop-capybara (2.18.0)
       rubocop (~> 1.41)
@@ -321,7 +321,7 @@ GEM
       unicode_utils (~> 1.4)
     strings-ansi (0.2.0)
     temple (0.10.2)
-    terser (1.1.15)
+    terser (1.1.16)
       execjs (>= 0.3.0, < 3)
     thor (1.2.2)
     tilt (2.1.0)
