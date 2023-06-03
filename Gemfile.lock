@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 5dd4dcbae3647cb4b37000bfe6273d6865bd6dc8
+  revision: 9d74450a0f8ae658207f1f662367381c248eb7a8
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -207,7 +207,7 @@ GEM
     rdoc (6.5.0)
       psych (>= 4.0.0)
     regexp_parser (2.8.0)
-    reline (0.3.4)
+    reline (0.3.5)
       io-console (~> 0.5)
     rexml (3.2.5)
     rspec-core (3.12.2)
@@ -227,7 +227,7 @@ GEM
       rspec-mocks (~> 3.12)
       rspec-support (~> 3.12)
     rspec-support (3.12.0)
-    rubocop (1.50.2)
+    rubocop (1.52.0)
       json (~> 2.3)
       parallel (~> 1.10)
       parser (>= 3.2.0.0)
@@ -243,7 +243,7 @@ GEM
       rubocop (~> 1.41)
     rubocop-factory_bot (2.23.1)
       rubocop (~> 1.33)
-    rubocop-performance (1.16.0)
+    rubocop-performance (1.18.0)
       rubocop (>= 1.7.0, < 2.0)
       rubocop-ast (>= 0.4.0)
     rubocop-rails (2.19.1)
@@ -303,17 +303,17 @@ GEM
       sprockets (>= 3.0.0)
     sqlite3 (1.6.3)
       mini_portile2 (~> 2.8.0)
-    standard (1.28.5)
+    standard (1.29.0)
       language_server-protocol (~> 3.17.0.2)
       lint_roller (~> 1.0)
-      rubocop (~> 1.50.2)
+      rubocop (~> 1.52.0)
       standard-custom (~> 1.0.0)
-      standard-performance (~> 1.0.1)
+      standard-performance (~> 1.1.0)
     standard-custom (1.0.0)
       lint_roller (~> 1.0)
-    standard-performance (1.0.1)
+    standard-performance (1.1.0)
       lint_roller (~> 1.0)
-      rubocop-performance (~> 1.16.0)
+      rubocop-performance (~> 1.18.0)
     stringio (3.0.7)
     strings (0.2.1)
       strings-ansi (~> 0.2)
