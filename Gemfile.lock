@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 628cdf9e9cf54145cca716eb2f80dc04ef66f2f2
+  revision: 54ce634a9e297a609925d2904168c6a4166f1927
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -309,7 +309,7 @@ GEM
       rubocop (~> 1.52.0)
       standard-custom (~> 1.0.0)
       standard-performance (~> 1.1.0)
-    standard-custom (1.0.0)
+    standard-custom (1.0.1)
       lint_roller (~> 1.0)
     standard-performance (1.1.0)
       lint_roller (~> 1.0)
@@ -324,7 +324,7 @@ GEM
     terser (1.1.16)
       execjs (>= 0.3.0, < 3)
     thor (1.2.2)
-    tilt (2.1.0)
+    tilt (2.2.0)
     timeout (0.3.2)
     tty-color (0.6.0)
     tty-cursor (0.7.1)
