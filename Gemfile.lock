@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 54ce634a9e297a609925d2904168c6a4166f1927
+  revision: 0c09ae546fae39333068177b28767abbc6c8726e
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -257,7 +257,7 @@ GEM
     ruby-progressbar (1.13.0)
     ruby_audit (2.2.0)
       bundler-audit (~> 0.9.0)
-    ruby_parser (3.20.1)
+    ruby_parser (3.20.2)
       sexp_processor (~> 4.16)
     sassc (2.4.0)
       ffi (~> 1.9)
