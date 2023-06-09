@@ -174,8 +174,9 @@ GEM
       iniparse (~> 1.4)
       rexml (~> 3.2)
     parallel (1.23.0)
-    parser (3.2.2.1)
+    parser (3.2.2.3)
       ast (~> 2.4.1)
+      racc
     pastel (0.8.0)
       tty-color (~> 0.5)
     pry (0.14.2)
