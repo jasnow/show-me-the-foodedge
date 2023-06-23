@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 06da26afbabb1681d3d680cac13f70f7623cf69a
+  revision: 5899adad4f1bc5885e8eeb84a5a291ab6f35f38b
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -326,7 +326,7 @@ GEM
       execjs (>= 0.3.0, < 3)
     thor (1.2.2)
     tilt (2.2.0)
-    timeout (0.3.2)
+    timeout (0.4.0)
     tty-color (0.6.0)
     tty-cursor (0.7.1)
     tty-option (0.3.0)
