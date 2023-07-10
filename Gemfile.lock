@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: a5fc471b3f4bbd02e6be38dae023526a49e7d049
+  revision: 7b52f569c1a05d3c988540a2fc1ccef40165a59c
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -59,6 +59,7 @@ GIT
     activerecord (7.1.0.alpha)
       activemodel (= 7.1.0.alpha)
       activesupport (= 7.1.0.alpha)
+      timeout (>= 0.4.0)
     activestorage (7.1.0.alpha)
       actionpack (= 7.1.0.alpha)
       activejob (= 7.1.0.alpha)
