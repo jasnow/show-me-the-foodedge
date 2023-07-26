@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 455e922b49c5de92882d10783c3014f6bf34a146
+  revision: 3bdd57fba6cacdef06d57c27c60de663a5be85be
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -349,7 +349,7 @@ GEM
     unicode-display_width (2.4.2)
     unicode_utils (1.4.0)
     webrick (1.8.1)
-    websocket-driver (0.7.5)
+    websocket-driver (0.7.6)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.5)
     zeitwerk (2.6.9)
