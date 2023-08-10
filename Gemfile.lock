@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 4e01a7e8753c30e22264e185082524a9ea5e0c90
+  revision: 6dd4579bcbcad26657c8a3c77aecfcb165bb71f9
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -260,7 +260,7 @@ GEM
       activesupport (>= 4.2.0)
       rack (>= 1.1)
       rubocop (>= 1.33.0, < 2.0)
-    rubocop-rspec (2.23.1)
+    rubocop-rspec (2.23.2)
       rubocop (~> 1.33)
       rubocop-capybara (~> 2.17)
       rubocop-factory_bot (~> 2.22)
@@ -326,7 +326,7 @@ GEM
     standard-performance (1.1.2)
       lint_roller (~> 1.1)
       rubocop-performance (~> 1.18.0)
-    stringio (3.0.7)
+    stringio (3.0.8)
     strings (0.2.1)
       strings-ansi (~> 0.2)
       unicode-display_width (>= 1.5, < 3.0)
