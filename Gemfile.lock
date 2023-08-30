@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 4f33e65fc57ca45153f6c05e38dc067e6c519065
+  revision: 4a9974acfa420174f51c7fdac454eaa4609588ed
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -143,7 +143,8 @@ GEM
       concurrent-ruby (~> 1.0)
     iniparse (1.5.0)
     io-console (0.6.0)
-    irb (1.7.4)
+    irb (1.8.0)
+      rdoc (~> 6.5)
       reline (>= 0.3.6)
     jquery-rails (4.6.0)
       rails-dom-testing (>= 1, < 3)
