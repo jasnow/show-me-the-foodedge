@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 5415d3a19ad4eb26a4e57bb31c06187ea5172812
+  revision: 4986cfb26ed74d7532e27e5355d37a4e2d7f4321
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -165,7 +165,7 @@ GEM
     method_source (1.0.0)
     mini_mime (1.1.5)
     mini_portile2 (2.8.4)
-    minitest (5.19.0)
+    minitest (5.20.0)
     mutex_m (0.1.2)
     net-imap (0.3.7)
       date
