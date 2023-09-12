@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: bb4dbd14f8ef5f157838b14fba5664e43566aaa7
+  revision: b5d63b9b16c6f251eaa08f61086f21ff3ef3292f
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -124,7 +124,7 @@ GEM
     drb (2.1.1)
       ruby2_keywords
     erubi (1.12.0)
-    execjs (2.8.1)
+    execjs (2.9.0)
     factory_bot (6.2.1)
       activesupport (>= 5.0.0)
     factory_bot_rails (6.2.0)
