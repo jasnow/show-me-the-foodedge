@@ -1,1 +1,1 @@
-rvm use 3.3.0-preview1@ruby3.3-railsedge --create
+rvm use 3.3.0-preview2@ruby3.3-railsedge --create
