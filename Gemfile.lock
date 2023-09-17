@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: d21d811ffece4d3959bcd37e58fec77590ff6f93
+  revision: 8e939586af1e40d6e2f05429830f54699f51e9e6
   branch: main
   specs:
     actioncable (7.1.0.beta1)
@@ -124,7 +124,7 @@ GEM
     drb (2.1.1)
       ruby2_keywords
     erubi (1.12.0)
-    execjs (2.9.0)
+    execjs (2.9.1)
     factory_bot (6.2.1)
       activesupport (>= 5.0.0)
     factory_bot_rails (6.2.0)
@@ -258,7 +258,7 @@ GEM
       rubocop (~> 1.41)
     rubocop-factory_bot (2.23.1)
       rubocop (~> 1.33)
-    rubocop-performance (1.19.0)
+    rubocop-performance (1.19.1)
       rubocop (>= 1.7.0, < 2.0)
       rubocop-ast (>= 0.4.0)
     rubocop-rails (2.21.1)
