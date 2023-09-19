@@ -4,6 +4,9 @@ gem "rails", git: "https://github.com/rails/rails", branch: "main"
 
 ruby File.read(".ruby-version")
 
+gem 'csv'
+gem 'observer'
+
 gem "sassc-rails"
 gem "rails-controller-testing"
 gem "turbolinks"

@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: a967d355c6fee9ad9b8bd115d43bc8b0fc207e7e
+  revision: ebcd7233ea1307448f2d97eaf56a8d303200e5f7
   branch: main
   specs:
     actioncable (7.1.0.beta1)
@@ -118,6 +118,7 @@ GEM
     concurrent-ruby (1.2.2)
     connection_pool (2.4.1)
     crass (1.0.6)
+    csv (3.2.8)
     date (3.3.3)
     diff-lcs (1.5.0)
     docile (1.4.0)
@@ -180,6 +181,7 @@ GEM
     nokogiri (1.15.4)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
+    observer (0.1.1)
     overcommit (0.60.0)
       childprocess (>= 0.6.3, < 5)
       iniparse (~> 1.4)
@@ -374,10 +376,12 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-script
+  csv
   factory_bot_rails
   geocoder
   gmaps4rails
   jquery-rails
+  observer
   overcommit
   pry
   rails!
