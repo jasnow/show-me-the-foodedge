@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: a5f113f4332b3688d4431a97fa517d1b9517ceb0
+  revision: b10a2e494399602e420d2a43d2a5ed81fd3785fb
   branch: main
   specs:
     actioncable (7.2.0.alpha)
@@ -361,7 +361,7 @@ GEM
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
     underscore-rails (1.8.3)
-    unicode-display_width (2.4.2)
+    unicode-display_width (2.5.0)
     unicode_utils (1.4.0)
     webrick (1.8.1)
     websocket-driver (0.7.6)
