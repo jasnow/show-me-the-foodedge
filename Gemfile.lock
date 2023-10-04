@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 71fd543d4b7282bd86c942ebefda7384f0760ad6
+  revision: 5cfb10074558cda90d93e460e1b2d359f80742a3
   branch: main
   specs:
     actioncable (7.2.0.alpha)
@@ -131,12 +131,12 @@ GEM
     factory_bot_rails (6.2.0)
       factory_bot (~> 6.2.0)
       railties (>= 5.0.0)
-    ffi (1.16.2)
+    ffi (1.16.3)
     geocoder (1.8.2)
     globalid (1.2.1)
       activesupport (>= 6.1)
     gmaps4rails (2.1.2)
-    haml (6.2.0)
+    haml (6.2.3)
       temple (>= 0.8.2)
       thor
       tilt
@@ -187,7 +187,7 @@ GEM
       iniparse (~> 1.4)
       rexml (~> 3.2)
     parallel (1.23.0)
-    parser (3.2.2.3)
+    parser (3.2.2.4)
       ast (~> 2.4.1)
       racc
     pastel (0.8.0)
@@ -222,7 +222,7 @@ GEM
     rdoc (6.5.0)
       psych (>= 4.0.0)
     regexp_parser (2.8.1)
-    reline (0.3.8)
+    reline (0.3.9)
       io-console (~> 0.5)
     rexml (3.2.6)
     rspec-core (3.12.2)
@@ -339,7 +339,7 @@ GEM
       unicode-display_width (>= 1.5, < 3.0)
       unicode_utils (~> 1.4)
     strings-ansi (0.2.0)
-    temple (0.10.2)
+    temple (0.10.3)
     terser (1.1.18)
       execjs (>= 0.3.0, < 3)
     thor (1.2.2)
