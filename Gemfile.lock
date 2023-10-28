@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 392e5efb71c891868f63e95e944b01ebeb476ff5
+  revision: e74179654241ff2a7ce3f4861f83a7d073a12ddb
   branch: main
   specs:
     actioncable (7.2.0.alpha)
@@ -217,7 +217,7 @@ GEM
       loofah (~> 2.21)
       nokogiri (~> 1.14)
     rainbow (3.1.1)
-    rake (13.0.6)
+    rake (13.1.0)
     rdoc (6.5.0)
       psych (>= 4.0.0)
     regexp_parser (2.8.2)
@@ -262,7 +262,7 @@ GEM
     rubocop-performance (1.19.1)
       rubocop (>= 1.7.0, < 2.0)
       rubocop-ast (>= 0.4.0)
-    rubocop-rails (2.22.0)
+    rubocop-rails (2.22.1)
       activesupport (>= 4.2.0)
       rack (>= 1.1)
       rubocop (>= 1.33.0, < 2.0)
