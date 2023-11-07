@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: c0e67e654789682473eefbe3db257d3474b0a01f
+  revision: d53ef2c18073a3a662edddd3fbbce32805e1135a
   branch: main
   specs:
     actioncable (7.2.0.alpha)
@@ -119,10 +119,10 @@ GEM
     connection_pool (2.4.1)
     crass (1.0.6)
     csv (3.2.8)
-    date (3.3.3)
+    date (3.3.4)
     diff-lcs (1.5.0)
     docile (1.4.0)
-    drb (2.1.1)
+    drb (2.2.0)
       ruby2_keywords
     erubi (1.12.0)
     execjs (2.9.1)
@@ -172,7 +172,7 @@ GEM
       net-protocol
     net-pop (0.1.2)
       net-protocol
-    net-protocol (0.2.1)
+    net-protocol (0.2.2)
       timeout
     net-smtp (0.4.0)
       net-protocol
@@ -180,7 +180,7 @@ GEM
     nokogiri (1.15.4)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
-    observer (0.1.1)
+    observer (0.1.2)
     overcommit (0.60.0)
       childprocess (>= 0.6.3, < 5)
       iniparse (~> 1.4)
@@ -343,7 +343,7 @@ GEM
       execjs (>= 0.3.0, < 3)
     thor (1.3.0)
     tilt (2.3.0)
-    timeout (0.4.0)
+    timeout (0.4.1)
     tty-color (0.6.0)
     tty-cursor (0.7.1)
     tty-option (0.3.0)
