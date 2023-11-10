@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 60d05cda7f0000692391cb761caa496e8fa9014c
+  revision: c37efa154e39aba9aba9132d983cd7f908c44e50
   branch: main
   specs:
     actioncable (7.2.0.alpha)
@@ -75,7 +75,7 @@ GIT
       drb
       i18n (>= 1.6, < 2)
       minitest (>= 5.1)
-      tzinfo (~> 2.0)
+      tzinfo (~> 2.0, >= 2.0.5)
     rails (7.2.0.alpha)
       actioncable (= 7.2.0.alpha)
       actionmailbox (= 7.2.0.alpha)
