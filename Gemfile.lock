@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: c37efa154e39aba9aba9132d983cd7f908c44e50
+  revision: 4161ae7d7c57b45492af2bddc994c61842c034ac
   branch: main
   specs:
     actioncable (7.2.0.alpha)
@@ -144,7 +144,7 @@ GEM
       concurrent-ruby (~> 1.0)
     iniparse (1.5.0)
     io-console (0.6.0)
-    irb (1.8.3)
+    irb (1.9.0)
       rdoc
       reline (>= 0.3.8)
     jquery-rails (4.6.0)
@@ -292,7 +292,7 @@ GEM
       simplecov_json_formatter (~> 0.1)
     simplecov-html (0.12.3)
     simplecov_json_formatter (0.1.4)
-    slim (5.1.1)
+    slim (5.2.0)
       temple (~> 0.10.0)
       tilt (>= 2.1.0)
     spektr (0.4.1)
