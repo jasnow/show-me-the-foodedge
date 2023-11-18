@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: b7d9654f981120b3f525533c3e35f544d3d3171e
+  revision: 438cad462638b02210fc48b700c29dcd0428a8b7
   branch: main
   specs:
     actioncable (7.2.0.alpha)
@@ -126,10 +126,10 @@ GEM
       ruby2_keywords
     erubi (1.12.0)
     execjs (2.9.1)
-    factory_bot (6.2.1)
+    factory_bot (6.4.0)
       activesupport (>= 5.0.0)
-    factory_bot_rails (6.2.0)
-      factory_bot (~> 6.2.0)
+    factory_bot_rails (6.4.0)
+      factory_bot (~> 6.4)
       railties (>= 5.0.0)
     ffi (1.16.3)
     geocoder (1.8.2)
@@ -177,7 +177,7 @@ GEM
     net-smtp (0.4.0)
       net-protocol
     nio4r (2.6.0)
-    nokogiri (1.15.4)
+    nokogiri (1.15.5)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     observer (0.1.2)
