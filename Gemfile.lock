@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: f0d66d6c47b9def492a6b5f70a7a45907e38fadc
+  revision: 5c4a7a711068c1dff2bd873da510ddbb82dcadd7
   branch: main
   specs:
     actioncable (7.2.0.alpha)
@@ -136,7 +136,7 @@ GEM
     globalid (1.2.1)
       activesupport (>= 6.1)
     gmaps4rails (2.1.2)
-    haml (6.2.3)
+    haml (6.2.4)
       temple (>= 0.8.2)
       thor
       tilt
