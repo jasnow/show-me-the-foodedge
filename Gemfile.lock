@@ -136,7 +136,7 @@ GEM
     globalid (1.2.1)
       activesupport (>= 6.1)
     gmaps4rails (2.1.2)
-    haml (6.2.4)
+    haml (6.3.0)
       temple (>= 0.8.2)
       thor
       tilt
