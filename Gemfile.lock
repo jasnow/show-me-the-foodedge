@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: d88f10869078017fdb022f529081f49b83927dcd
+  revision: 462e8e8b1c74d46a78e7077c5b07bfbc6fab08b0
   branch: main
   specs:
     actioncable (7.2.0.alpha)
@@ -347,7 +347,7 @@ GEM
     tty-color (0.6.0)
     tty-cursor (0.7.1)
     tty-option (0.3.0)
-    tty-screen (0.8.1)
+    tty-screen (0.8.2)
     tty-spinner (0.9.3)
       tty-cursor (~> 0.7)
     tty-table (0.12.0)
