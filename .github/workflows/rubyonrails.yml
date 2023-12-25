@@ -24,7 +24,7 @@ jobs:
           bundler-cache: false
 
       - name:
-        run: bin/rails db:reset db:schema:load
+        run: bin/rails db:schema:load
 
       - name:
         run: COVERAGE="yes" bin/rake
