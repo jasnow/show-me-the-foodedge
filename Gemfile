@@ -1,11 +1,11 @@
 source "https://rubygems.org"
 
 gem "rails", git: "https://github.com/rails/rails", branch: "main"
+gem "mutex_m"
+gem "csv"
+gem "observer"
 
 ruby File.read(".ruby-version")
-
-gem 'csv'
-gem 'observer'
 
 gem "sassc-rails"
 gem "rails-controller-testing"
