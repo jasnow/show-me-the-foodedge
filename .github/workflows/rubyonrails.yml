@@ -21,10 +21,7 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.3.0"
-          bundler-cache: false
-
-      - name:
-        run: bundle install
+          bundler-cache: true
 
       - name:
         run: bin/rails db:schema:load
@@ -42,4 +39,4 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.3.0"
-          bundler-cache: false
+          bundler-cache: true
