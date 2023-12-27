@@ -24,6 +24,9 @@ jobs:
           bundler-cache: false
 
       - name:
+        run: bundle install
+
+      - name:
         run: bin/rails db:schema:load
 
       - name:
