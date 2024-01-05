@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: f6f6b0542fd9ae6aebe3529baba358d521d64638
+  revision: 1702b6cbfd062400aa66fc848bcfd7b3924dc6be
   branch: main
   specs:
     actioncable (7.2.0.alpha)
@@ -169,14 +169,14 @@ GEM
     mini_portile2 (2.8.5)
     minitest (5.20.0)
     mutex_m (0.2.0)
-    net-imap (0.4.9)
+    net-imap (0.4.9.1)
       date
       net-protocol
     net-pop (0.1.2)
       net-protocol
     net-protocol (0.2.2)
       timeout
-    net-smtp (0.4.0)
+    net-smtp (0.4.0.1)
       net-protocol
     nio4r (2.7.0)
     nokogiri (1.16.0)
@@ -270,7 +270,7 @@ GEM
       parser (>= 3.2.1.0)
     rubocop-capybara (2.20.0)
       rubocop (~> 1.41)
-    rubocop-factory_bot (2.24.0)
+    rubocop-factory_bot (2.25.0)
       rubocop (~> 1.33)
     rubocop-performance (1.20.1)
       rubocop (>= 1.48.1, < 2.0)
@@ -280,7 +280,7 @@ GEM
       rack (>= 1.1)
       rubocop (>= 1.33.0, < 2.0)
       rubocop-ast (>= 1.30.0, < 2.0)
-    rubocop-rspec (2.25.0)
+    rubocop-rspec (2.26.0)
       rubocop (~> 1.40)
       rubocop-capybara (~> 2.17)
       rubocop-factory_bot (~> 2.22)
