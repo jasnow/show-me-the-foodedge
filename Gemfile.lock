@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: a255742b2eb711baa8fd7a8937852851ddc8a679
+  revision: 4fb230d2140054f8d0114c2c8dcc659af10a7972
   branch: main
   specs:
     actioncable (7.2.0.alpha)
@@ -194,7 +194,7 @@ GEM
       iniparse (~> 1.4)
       rexml (~> 3.2)
     parallel (1.24.0)
-    parser (3.3.0.2)
+    parser (3.3.0.3)
       ast (~> 2.4.1)
       racc
     pastel (0.8.0)
