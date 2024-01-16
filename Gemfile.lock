@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: fc7befc87af05796612d03531b21c691699aeb74
+  revision: 6a9795d4d22d7bf608bf89fb8b08c1307c5d0d57
   branch: main
   specs:
     actioncable (7.2.0.alpha)
@@ -110,7 +110,7 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.12.2)
-    concurrent-ruby (1.2.2)
+    concurrent-ruby (1.2.3)
     connection_pool (2.4.1)
     crass (1.0.6)
     csv (3.2.8)
@@ -194,7 +194,7 @@ GEM
       iniparse (~> 1.4)
       rexml (~> 3.2)
     parallel (1.24.0)
-    parser (3.3.0.3)
+    parser (3.3.0.4)
       ast (~> 2.4.1)
       racc
     pastel (0.8.0)
@@ -282,7 +282,8 @@ GEM
     ruby2_keywords (0.0.5)
     ruby_audit (2.3.0)
       bundler-audit (~> 0.9.0)
-    ruby_parser (3.20.3)
+    ruby_parser (3.21.0)
+      racc (~> 1.5)
       sexp_processor (~> 4.16)
     sassc (2.4.0)
       ffi (~> 1.9)
@@ -294,7 +295,7 @@ GEM
       tilt
     sdoc (2.6.1)
       rdoc (>= 5.0)
-    sexp_processor (4.17.0)
+    sexp_processor (4.17.1)
     simplecov (0.22.0)
       docile (~> 1.1)
       simplecov-html (~> 0.11)
