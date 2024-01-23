@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: fe81d667a78719d5b8f7e95085cbb7aa937698c3
+  revision: ee88f4133f732ccc57904047972d66082d9c34d2
   branch: main
   specs:
     actioncable (7.2.0.alpha)
@@ -354,7 +354,7 @@ GEM
       unicode_utils (~> 1.4)
     strings-ansi (0.2.0)
     temple (0.10.3)
-    terser (1.1.20)
+    terser (1.2.0)
       execjs (>= 0.3.0, < 3)
     thor (1.3.0)
     tilt (2.3.0)
