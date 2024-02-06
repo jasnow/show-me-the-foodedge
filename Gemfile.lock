@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 0add5dba834f2f1b84fcf1bd1b758545b325fb73
+  revision: 6b2a9f1213d7aa4f9a25db7640ad68ec0d8c31ce
   branch: main
   specs:
     actioncable (7.2.0.alpha)
@@ -69,7 +69,7 @@ GIT
       connection_pool (>= 2.2.5)
       drb
       i18n (>= 1.6, < 2)
-      minitest (>= 5.1)
+      minitest (>= 5.1, < 5.22.0)
       tzinfo (~> 2.0, >= 2.0.5)
     rails (7.2.0.alpha)
       actioncable (= 7.2.0.alpha)
@@ -382,7 +382,7 @@ GEM
     websocket-driver (0.7.6)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.5)
-    zeitwerk (2.6.12)
+    zeitwerk (2.6.13)
 
 PLATFORMS
   aarch64-linux
@@ -428,4 +428,4 @@ RUBY VERSION
    ruby 3.3.0p0
 
 BUNDLED WITH
-   2.5.5
+   2.5.6
